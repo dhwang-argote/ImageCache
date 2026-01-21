@@ -1,7 +1,7 @@
 # ImageCache
 League/Team Logos
 
-<NOTES>
+< NOTES>
 Directory structure- 
 SPORT- LEAGUE- TEAM
 League photos are stored in the League Folder
@@ -31,13 +31,14 @@ INCOMPLETE
    FA Cup
 *Tennis
    Summer games (I DON'T KNOW WHAT THIS IS)
-</NOTES>
+< /NOTES>
 
-<FUTURE>
+< FUTURE>
 Will standardize images
-</FUTURE>
 
-<Coverage>  
+< /FUTURE>
+
+< Coverage>  
 Here is a formal list of the sports and leagues we allow on the platform-
 *Soccer
    Italy Serie A
@@ -87,7 +88,7 @@ Here is a formal list of the sports and leagues we allow on the platform-
    WTP finals
    ATP finals
    Laver Cup
-</Coverage>  
+< /Coverage>  
 
 
 
