@@ -3,8 +3,8 @@ League/Team Logos
 
 
 Directory structure- 
-SPORT- LEAGUE- TEAM
-League photos are stored in the League Folder
+SPORT- LEAGUE- SubLeague_TEAM
+League photos are stored in the League or SubLeague  Folder
 
 Some of the individual sports (Tennis, MMA, Boxing) will NOT have logos.
 People do not have logos.
