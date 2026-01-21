@@ -1,7 +1,7 @@
 # ImageCache
 League/Team Logos
 
-< NOTES>
+
 Directory structure- 
 SPORT- LEAGUE- TEAM
 League photos are stored in the League Folder
@@ -18,6 +18,7 @@ In tennis the French cup is now known as the Roland Garros
 
 
 INCOMPLETE
+
 *Soccer (NEED TO DECIPHER A FEW THINGS ABOUT HOW THESE LEAGUES WORK)
    England Championship
    England Premier League
@@ -31,15 +32,17 @@ INCOMPLETE
    FA Cup
 *Tennis
    Summer games (I DON'T KNOW WHAT THIS IS)
-< /NOTES>
 
-< FUTURE>
+
+
+FUTURE
 Will standardize images
 
-< /FUTURE>
 
-< Coverage>  
+
+Coverage  
 Here is a formal list of the sports and leagues we allow on the platform-
+
 *Soccer
    Italy Serie A
    England Championship
@@ -59,25 +62,32 @@ Here is a formal list of the sports and leagues we allow on the platform-
    UEFA Conmebol
    UEFA conference league
    FA Cup
+   
 *Basketball
    NBA
    NCAAB
+   
 *Baseball
    MLB
    College baseball
+   
 *MMA
    UFC fight night
+   
 *Ice hockey
    NHL
+   
 *American football
    NFL
    NCAAF
    CFL
+   
 *Boxing
    WBA
    WBC
    IBF
    WBO
+   
 *Tennis
    Wimbledon
    US open
@@ -88,7 +98,7 @@ Here is a formal list of the sports and leagues we allow on the platform-
    WTP finals
    ATP finals
    Laver Cup
-< /Coverage>  
+
 
 
 
