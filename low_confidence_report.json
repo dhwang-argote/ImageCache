@@ -1,0 +1,863 @@
+[
+  {
+    "sport": "Soccer",
+    "file": "C:\\Users\\dhwan\\Desktop\\ImageCache\\Logos\\Soccer\\Union of European Football Association.gif",
+    "suggested": null,
+    "confidence": 0.0,
+    "reason": "Unable to match with high confidence. Cannot definitively identify association."
+  },
+  {
+    "sport": "Soccer",
+    "file": "C:\\Users\\dhwan\\Desktop\\ImageCache\\Logos\\Soccer\\Brazil Serie Al\\Associacao Atletica Ponte Pret Logo.gif",
+    "suggested": null,
+    "confidence": 0.0,
+    "reason": "Unable to match with high confidence. Team name not present in known entities."
+  },
+  {
+    "sport": "Soccer",
+    "file": "C:\\Users\\dhwan\\Desktop\\ImageCache\\Logos\\Soccer\\Brazil Serie Al\\Associacao Portuguesa de Desportos.gif",
+    "suggested": null,
+    "confidence": 0.0,
+    "reason": "Unable to match with high confidence. Team name not present in known entities."
+  },
+  {
+    "sport": "Soccer",
+    "file": "C:\\Users\\dhwan\\Desktop\\ImageCache\\Logos\\Soccer\\Brazil Serie Al\\Clube Nautico Capibaribe Logo.gif",
+    "suggested": null,
+    "confidence": 0.0,
+    "reason": "Unable to match with high confidence. Team name not present in known entities."
+  },
+  {
+    "sport": "Soccer",
+    "file": "C:\\Users\\dhwan\\Desktop\\ImageCache\\Logos\\Soccer\\Brazil Serie Al\\CR Vasco da Gama Logo.gif",
+    "suggested": null,
+    "confidence": 0.0,
+    "reason": "Unable to match with high confidence. Team name not present in known entities."
+  },
+  {
+    "sport": "Soccer",
+    "file": "C:\\Users\\dhwan\\Desktop\\ImageCache\\Logos\\Soccer\\Brazil Serie Al\\Figueirense Futebol Clube Logo.gif",
+    "suggested": null,
+    "confidence": 0.0,
+    "reason": "Unable to match with high confidence. Team name not present in known entities."
+  },
+  {
+    "sport": "Soccer",
+    "file": "C:\\Users\\dhwan\\Desktop\\ImageCache\\Logos\\Soccer\\France Ligue 1\\AC Ajaccio Logo.gif",
+    "suggested": null,
+    "confidence": 0.0,
+    "reason": "Unable to match with high confidence. Team name not present in known entities."
+  },
+  {
+    "sport": "Soccer",
+    "file": "C:\\Users\\dhwan\\Desktop\\ImageCache\\Logos\\Soccer\\France Ligue 1\\AS Nancy Logo.gif",
+    "suggested": null,
+    "confidence": 0.0,
+    "reason": "Unable to match with high confidence. Team name not present in known entities."
+  },
+  {
+    "sport": "Soccer",
+    "file": "C:\\Users\\dhwan\\Desktop\\ImageCache\\Logos\\Soccer\\France Ligue 1\\Evian Thoron Gaillard Logo.gif",
+    "suggested": null,
+    "confidence": 0.0,
+    "reason": "Unable to match with high confidence. Team name not present in known entities."
+  },
+  {
+    "sport": "Soccer",
+    "file": "C:\\Users\\dhwan\\Desktop\\ImageCache\\Logos\\Soccer\\France Ligue 1\\FC Girondins de Bordeaux Logo.gif",
+    "suggested": null,
+    "confidence": 0.0,
+    "reason": "Unable to match with high confidence. Team name not present in known entities."
+  },
+  {
+    "sport": "Soccer",
+    "file": "C:\\Users\\dhwan\\Desktop\\ImageCache\\Logos\\Soccer\\Italian Serie A\\Internazionale Milan Logo.gif",
+    "suggested": "Inter",
+    "confidence": 0.85,
+    "reason": "Filename contains 'Internazionale Milan' which is strongly associated with the 'Inter' team."
+  },
+  {
+    "sport": "Tennis",
+    "file": "C:\\Users\\dhwan\\Desktop\\ImageCache\\Logos\\Tennis\\Australian Open.png",
+    "suggested": null,
+    "confidence": 0.7,
+    "reason": "Reasonable filename match based on name."
+  },
+  {
+    "sport": "Tennis",
+    "file": "C:\\Users\\dhwan\\Desktop\\ImageCache\\Logos\\Tennis\\BNP Paribus Open.jpg",
+    "suggested": null,
+    "confidence": 0.7,
+    "reason": "Reasonable filename match based on name."
+  },
+  {
+    "sport": "Tennis",
+    "file": "C:\\Users\\dhwan\\Desktop\\ImageCache\\Logos\\Tennis\\Roland Garros.png",
+    "suggested": null,
+    "confidence": 0.7,
+    "reason": "Reasonable filename match based on name."
+  },
+  {
+    "sport": "Tennis",
+    "file": "C:\\Users\\dhwan\\Desktop\\ImageCache\\Logos\\Tennis\\US Open.png",
+    "suggested": null,
+    "confidence": 0.7,
+    "reason": "Reasonable filename match based on name."
+  },
+  {
+    "sport": "Tennis",
+    "file": "C:\\Users\\dhwan\\Desktop\\ImageCache\\Logos\\Tennis\\Wimbledon.png",
+    "suggested": null,
+    "confidence": 0.7,
+    "reason": "Reasonable filename match based on name."
+  },
+  {
+    "sport": "College",
+    "file": "C:\\Users\\dhwan\\Desktop\\ImageCache\\Logos\\College\\Colleges\\Alabama-Huntsville Chargers Logo.gif",
+    "suggested": null,
+    "confidence": 0.0,
+    "reason": "Team not in list"
+  },
+  {
+    "sport": "College",
+    "file": "C:\\Users\\dhwan\\Desktop\\ImageCache\\Logos\\College\\Colleges\\Alaska Anchorage Seawolves Logo.gif",
+    "suggested": null,
+    "confidence": 0.0,
+    "reason": "Team not in list"
+  },
+  {
+    "sport": "College",
+    "file": "C:\\Users\\dhwan\\Desktop\\ImageCache\\Logos\\College\\Colleges\\Alaska Nanooks Logo.gif",
+    "suggested": null,
+    "confidence": 0.0,
+    "reason": "Team not in list"
+  },
+  {
+    "sport": "College",
+    "file": "C:\\Users\\dhwan\\Desktop\\ImageCache\\Logos\\College\\Colleges\\American Eagles Logo.gif",
+    "suggested": null,
+    "confidence": 0.0,
+    "reason": "Team not in list"
+  },
+  {
+    "sport": "College",
+    "file": "C:\\Users\\dhwan\\Desktop\\ImageCache\\Logos\\College\\Colleges\\Arkansas-Little Rock Trojans Logo.gif",
+    "suggested": null,
+    "confidence": 0.0,
+    "reason": "Team not in list"
+  },
+  {
+    "sport": "College",
+    "file": "C:\\Users\\dhwan\\Desktop\\ImageCache\\Logos\\College\\Colleges\\Bellarmine Knights Logo.gif",
+    "suggested": null,
+    "confidence": 0.0,
+    "reason": "Team not in list"
+  },
+  {
+    "sport": "College",
+    "file": "C:\\Users\\dhwan\\Desktop\\ImageCache\\Logos\\College\\Colleges\\Belmont Bruins Logo.gif",
+    "suggested": null,
+    "confidence": 0.0,
+    "reason": "Team not in list"
+  },
+  {
+    "sport": "College",
+    "file": "C:\\Users\\dhwan\\Desktop\\ImageCache\\Logos\\College\\Colleges\\Bemidji State Beavers Logo.gif",
+    "suggested": null,
+    "confidence": 0.0,
+    "reason": "Team not in list"
+  },
+  {
+    "sport": "College",
+    "file": "C:\\Users\\dhwan\\Desktop\\ImageCache\\Logos\\College\\Colleges\\Bentley Falcons Logo.gif",
+    "suggested": null,
+    "confidence": 0.0,
+    "reason": "Team not in list"
+  },
+  {
+    "sport": "College",
+    "file": "C:\\Users\\dhwan\\Desktop\\ImageCache\\Logos\\College\\Colleges\\Binghamton Bearcats Logo.gif",
+    "suggested": null,
+    "confidence": 0.0,
+    "reason": "Team not in list"
+  },
+  {
+    "sport": "College",
+    "file": "C:\\Users\\dhwan\\Desktop\\ImageCache\\Logos\\College\\Colleges\\Birmingham-Southern Panthers Logo.gif",
+    "suggested": null,
+    "confidence": 0.0,
+    "reason": "Team not in list"
+  },
+  {
+    "sport": "College",
+    "file": "C:\\Users\\dhwan\\Desktop\\ImageCache\\Logos\\College\\Colleges\\Boston University Terriers Logo.gif",
+    "suggested": null,
+    "confidence": 0.0,
+    "reason": "Team not in list"
+  },
+  {
+    "sport": "College",
+    "file": "C:\\Users\\dhwan\\Desktop\\ImageCache\\Logos\\College\\Colleges\\Bradley Braves Logo.gif",
+    "suggested": null,
+    "confidence": 0.0,
+    "reason": "Team not in list"
+  },
+  {
+    "sport": "College",
+    "file": "C:\\Users\\dhwan\\Desktop\\ImageCache\\Logos\\College\\Colleges\\Cal State Fullerton Titans Logo.gif",
+    "suggested": null,
+    "confidence": 0.0,
+    "reason": "Team not in list"
+  },
+  {
+    "sport": "College",
+    "file": "C:\\Users\\dhwan\\Desktop\\ImageCache\\Logos\\College\\Colleges\\Cal State Northridge Matadors Logo.gif",
+    "suggested": null,
+    "confidence": 0.0,
+    "reason": "Team not in list"
+  },
+  {
+    "sport": "College",
+    "file": "C:\\Users\\dhwan\\Desktop\\ImageCache\\Logos\\College\\Colleges\\California Baptist Lancers Logo.gif",
+    "suggested": null,
+    "confidence": 0.0,
+    "reason": "Team not in list"
+  },
+  {
+    "sport": "College",
+    "file": "C:\\Users\\dhwan\\Desktop\\ImageCache\\Logos\\College\\Colleges\\California-Irvine Anteaters Logo.gif",
+    "suggested": null,
+    "confidence": 0.0,
+    "reason": "Team not in list"
+  },
+  {
+    "sport": "College",
+    "file": "C:\\Users\\dhwan\\Desktop\\ImageCache\\Logos\\College\\Colleges\\Canisius Golden Griffins Logo.gif",
+    "suggested": null,
+    "confidence": 0.0,
+    "reason": "Team not in list"
+  },
+  {
+    "sport": "College",
+    "file": "C:\\Users\\dhwan\\Desktop\\ImageCache\\Logos\\College\\Colleges\\Centenary Gentlemen Logo.gif",
+    "suggested": null,
+    "confidence": 0.0,
+    "reason": "Team not in list"
+  },
+  {
+    "sport": "College",
+    "file": "C:\\Users\\dhwan\\Desktop\\ImageCache\\Logos\\College\\Colleges\\Chicago State Cougars.gif",
+    "suggested": null,
+    "confidence": 0.0,
+    "reason": null
+  },
+  {
+    "sport": "College",
+    "file": "C:\\Users\\dhwan\\Desktop\\ImageCache\\Logos\\College\\Colleges\\Clarkson Golden Knights Logo.gif",
+    "suggested": null,
+    "confidence": 0.0,
+    "reason": null
+  },
+  {
+    "sport": "College",
+    "file": "C:\\Users\\dhwan\\Desktop\\ImageCache\\Logos\\College\\Colleges\\Cleveland State Vikings.gif",
+    "suggested": null,
+    "confidence": 0.0,
+    "reason": null
+  },
+  {
+    "sport": "College",
+    "file": "C:\\Users\\dhwan\\Desktop\\ImageCache\\Logos\\College\\Colleges\\College of Charleston Cougars Logo.gif",
+    "suggested": null,
+    "confidence": 0.0,
+    "reason": null
+  },
+  {
+    "sport": "College",
+    "file": "C:\\Users\\dhwan\\Desktop\\ImageCache\\Logos\\College\\Colleges\\Colorado College Tigers.gif",
+    "suggested": null,
+    "confidence": 0.0,
+    "reason": null
+  },
+  {
+    "sport": "College",
+    "file": "C:\\Users\\dhwan\\Desktop\\ImageCache\\Logos\\College\\Colleges\\Coppin State Eagles.gif",
+    "suggested": null,
+    "confidence": 0.0,
+    "reason": null
+  },
+  {
+    "sport": "College",
+    "file": "C:\\Users\\dhwan\\Desktop\\ImageCache\\Logos\\College\\Colleges\\Creighton Bluejays.gif",
+    "suggested": null,
+    "confidence": 0.0,
+    "reason": null
+  },
+  {
+    "sport": "College",
+    "file": "C:\\Users\\dhwan\\Desktop\\ImageCache\\Logos\\College\\Colleges\\CSU Bakersfield Roadrunners Logo.gif",
+    "suggested": null,
+    "confidence": 0.0,
+    "reason": null
+  },
+  {
+    "sport": "College",
+    "file": "C:\\Users\\dhwan\\Desktop\\ImageCache\\Logos\\College\\Colleges\\CSU Buccaneers Logo.gif",
+    "suggested": "Charleston Southern",
+    "confidence": 0.8,
+    "reason": "Local filename contains abbreviation for Charleston Southern Buccaneers."
+  },
+  {
+    "sport": "College",
+    "file": "C:\\Users\\dhwan\\Desktop\\ImageCache\\Logos\\College\\Colleges\\Denver Pioneers.gif",
+    "suggested": "Broncos",
+    "confidence": 0.4,
+    "reason": "Local filename contains Denver, and Broncos is the only one with a Denver association."
+  },
+  {
+    "sport": "College",
+    "file": "C:\\Users\\dhwan\\Desktop\\ImageCache\\Logos\\College\\Colleges\\DePaul Blue Demons.gif",
+    "suggested": null,
+    "confidence": 0.0,
+    "reason": null
+  },
+  {
+    "sport": "College",
+    "file": "C:\\Users\\dhwan\\Desktop\\ImageCache\\Logos\\College\\Colleges\\Detroit Mercy Titans.gif",
+    "suggested": "Titans",
+    "confidence": 0.4,
+    "reason": "Local filename contains the word Titans, which is a valid team."
+  },
+  {
+    "sport": "College",
+    "file": "C:\\Users\\dhwan\\Desktop\\ImageCache\\Logos\\College\\Colleges\\Dixie State Rebels Logo.gif",
+    "suggested": null,
+    "confidence": 0.0,
+    "reason": null
+  },
+  {
+    "sport": "College",
+    "file": "C:\\Users\\dhwan\\Desktop\\ImageCache\\Logos\\College\\Colleges\\Dixie State Red Storm Logo.gif",
+    "suggested": null,
+    "confidence": 0.0,
+    "reason": null
+  },
+  {
+    "sport": "College",
+    "file": "C:\\Users\\dhwan\\Desktop\\ImageCache\\Logos\\College\\Colleges\\Dixie State Trailblazers Logo.gif",
+    "suggested": null,
+    "confidence": 0.0,
+    "reason": null
+  },
+  {
+    "sport": "College",
+    "file": "C:\\Users\\dhwan\\Desktop\\ImageCache\\Logos\\College\\Colleges\\Drexel Dragons.gif",
+    "suggested": null,
+    "confidence": 0.0,
+    "reason": null
+  },
+  {
+    "sport": "College",
+    "file": "C:\\Users\\dhwan\\Desktop\\ImageCache\\Logos\\College\\Colleges\\East Texas State Lions Logo.gif",
+    "suggested": null,
+    "confidence": 0.0,
+    "reason": null
+  },
+  {
+    "sport": "College",
+    "file": "C:\\Users\\dhwan\\Desktop\\ImageCache\\Logos\\College\\Colleges\\Evansville Purple Aces Logo.gif",
+    "suggested": null,
+    "confidence": 0.0,
+    "reason": null
+  },
+  {
+    "sport": "College",
+    "file": "C:\\Users\\dhwan\\Desktop\\ImageCache\\Logos\\College\\Colleges\\Fairfield Stags Logo.gif",
+    "suggested": null,
+    "confidence": 0.0,
+    "reason": null
+  },
+  {
+    "sport": "College",
+    "file": "C:\\Users\\dhwan\\Desktop\\ImageCache\\Logos\\College\\Colleges\\Fairleigh Dickinson Knights Logo.gif",
+    "suggested": null,
+    "confidence": 0.0,
+    "reason": null
+  },
+  {
+    "sport": "College",
+    "file": "C:\\Users\\dhwan\\Desktop\\ImageCache\\Logos\\College\\Colleges\\George Mason Patriots Logo.gif",
+    "suggested": "Patriots",
+    "confidence": 0.85,
+    "reason": "Contains the full word Patriots"
+  },
+  {
+    "sport": "College",
+    "file": "C:\\Users\\dhwan\\Desktop\\ImageCache\\Logos\\College\\Colleges\\George Washington.gif",
+    "suggested": null,
+    "confidence": 0.0,
+    "reason": "No match found"
+  },
+  {
+    "sport": "College",
+    "file": "C:\\Users\\dhwan\\Desktop\\ImageCache\\Logos\\College\\Colleges\\Hartford Hawks Logo.gif",
+    "suggested": null,
+    "confidence": 0.0,
+    "reason": "No match found"
+  },
+  {
+    "sport": "College",
+    "file": "C:\\Users\\dhwan\\Desktop\\ImageCache\\Logos\\College\\Colleges\\High Point Panthers Logo.gif",
+    "suggested": "Panthers",
+    "confidence": 0.85,
+    "reason": "Contains the full word Panthers"
+  },
+  {
+    "sport": "College",
+    "file": "C:\\Users\\dhwan\\Desktop\\ImageCache\\Logos\\College\\Colleges\\Hofstra Pride Logo.gif",
+    "suggested": null,
+    "confidence": 0.0,
+    "reason": "No match found"
+  },
+  {
+    "sport": "College",
+    "file": "C:\\Users\\dhwan\\Desktop\\ImageCache\\Logos\\College\\Colleges\\Illinois-Chicago Flames Logo.gif",
+    "suggested": "Illinois",
+    "confidence": 0.7,
+    "reason": "Illinois is found toward the start of the filename."
+  },
+  {
+    "sport": "College",
+    "file": "C:\\Users\\dhwan\\Desktop\\ImageCache\\Logos\\College\\Colleges\\Iona Gaels Logo.gif",
+    "suggested": null,
+    "confidence": 0.0,
+    "reason": "No match found."
+  },
+  {
+    "sport": "College",
+    "file": "C:\\Users\\dhwan\\Desktop\\ImageCache\\Logos\\College\\Colleges\\IPFW Mastodons Logo.gif",
+    "suggested": null,
+    "confidence": 0.0,
+    "reason": "No match found."
+  },
+  {
+    "sport": "College",
+    "file": "C:\\Users\\dhwan\\Desktop\\ImageCache\\Logos\\College\\Colleges\\Jacksonville.gif",
+    "suggested": "Jacksonville State",
+    "confidence": 0.7,
+    "reason": "The file name matches Jacksonville which begins the full name of Jacksonville State Gamecocks."
+  },
+  {
+    "sport": "College",
+    "file": "C:\\Users\\dhwan\\Desktop\\ImageCache\\Logos\\College\\Colleges\\Kansas City Roos Logo.gif",
+    "suggested": "Chiefs",
+    "confidence": 0.6,
+    "reason": "Kansas City appears in the official name."
+  },
+  {
+    "sport": "College",
+    "file": "C:\\Users\\dhwan\\Desktop\\ImageCache\\Logos\\College\\Colleges\\La Salle Explorers Logo.gif",
+    "suggested": null,
+    "confidence": 0.0,
+    "reason": "No match found"
+  },
+  {
+    "sport": "College",
+    "file": "C:\\Users\\dhwan\\Desktop\\ImageCache\\Logos\\College\\Colleges\\Lake Superior State Lakers Logo.gif",
+    "suggested": null,
+    "confidence": 0.0,
+    "reason": "No match found"
+  },
+  {
+    "sport": "College",
+    "file": "C:\\Users\\dhwan\\Desktop\\ImageCache\\Logos\\College\\Colleges\\Ferris State Bulldogs Logo.gif",
+    "suggested": null,
+    "confidence": 0.0,
+    "reason": "No match found."
+  },
+  {
+    "sport": "College",
+    "file": "C:\\Users\\dhwan\\Desktop\\ImageCache\\Logos\\College\\Colleges\\Florida Gulf Coast Eagles Logo.gif",
+    "suggested": "Eagles",
+    "confidence": 0.6,
+    "reason": "The file name contains the word Eagles."
+  },
+  {
+    "sport": "College",
+    "file": "C:\\Users\\dhwan\\Desktop\\ImageCache\\Logos\\College\\Colleges\\Fort Wayne Mastodons Logo.gif",
+    "suggested": null,
+    "confidence": 0.0,
+    "reason": "No match found"
+  },
+  {
+    "sport": "College",
+    "file": "C:\\Users\\dhwan\\Desktop\\ImageCache\\Logos\\College\\Colleges\\Gonzaga Bulldogs Logo.gif",
+    "suggested": "Georgia Bulldogs",
+    "confidence": 0.5,
+    "reason": "The file shares the term Bulldogs"
+  },
+  {
+    "sport": "College",
+    "file": "C:\\Users\\dhwan\\Desktop\\ImageCache\\Logos\\College\\Colleges\\Grand Canyon Antelopes Logo.gif",
+    "suggested": null,
+    "confidence": 0.0,
+    "reason": "No match found"
+  },
+  {
+    "sport": "College",
+    "file": "C:\\Users\\dhwan\\Desktop\\ImageCache\\Logos\\College\\Colleges\\NC-Greensboro Spartans Logo.gif",
+    "suggested": null,
+    "confidence": 0.0,
+    "reason": "unrecognized team"
+  },
+  {
+    "sport": "College",
+    "file": "C:\\Users\\dhwan\\Desktop\\ImageCache\\Logos\\College\\Colleges\\NC-Wilmington Seahawks Logo.gif",
+    "suggested": null,
+    "confidence": 0.0,
+    "reason": "No match found"
+  },
+  {
+    "sport": "College",
+    "file": "C:\\Users\\dhwan\\Desktop\\ImageCache\\Logos\\College\\Colleges\\Nebraska-Omaha Mavericks Logo.gif",
+    "suggested": null,
+    "confidence": 0.0,
+    "reason": "no match"
+  },
+  {
+    "sport": "College",
+    "file": "C:\\Users\\dhwan\\Desktop\\ImageCache\\Logos\\College\\Colleges\\New Orleans Privateers Logo.gif",
+    "suggested": null,
+    "confidence": 0.0,
+    "reason": "no match"
+  },
+  {
+    "sport": "College",
+    "file": "C:\\Users\\dhwan\\Desktop\\ImageCache\\Logos\\College\\Colleges\\Niagara Purple Eagles Logo.gif",
+    "suggested": null,
+    "confidence": 0.0,
+    "reason": "no match"
+  },
+  {
+    "sport": "College",
+    "file": "C:\\Users\\dhwan\\Desktop\\ImageCache\\Logos\\College\\Colleges\\NJIT Highlanders Logo.gif",
+    "suggested": null,
+    "confidence": 0.0,
+    "reason": "no match"
+  },
+  {
+    "sport": "College",
+    "file": "C:\\Users\\dhwan\\Desktop\\ImageCache\\Logos\\College\\Colleges\\North Alabama Lions Logo.gif",
+    "suggested": null,
+    "confidence": 0.0,
+    "reason": "no match"
+  },
+  {
+    "sport": "College",
+    "file": "C:\\Users\\dhwan\\Desktop\\ImageCache\\Logos\\College\\Colleges\\North CarolinaAsheville Bulldogs Logo.gif",
+    "suggested": null,
+    "confidence": 0.0,
+    "reason": "no match"
+  },
+  {
+    "sport": "College",
+    "file": "C:\\Users\\dhwan\\Desktop\\ImageCache\\Logos\\College\\Colleges\\Northeastern Huskies Logo.gif",
+    "suggested": null,
+    "confidence": 0.0,
+    "reason": "no match"
+  },
+  {
+    "sport": "College",
+    "file": "C:\\Users\\dhwan\\Desktop\\ImageCache\\Logos\\College\\Colleges\\Northern Kentucky Norse Logo.gif",
+    "suggested": null,
+    "confidence": 0.0,
+    "reason": "no match"
+  },
+  {
+    "sport": "College",
+    "file": "C:\\Users\\dhwan\\Desktop\\ImageCache\\Logos\\College\\Colleges\\Northern Michigan.gif",
+    "suggested": "Michigan",
+    "confidence": 0.5,
+    "reason": "Partial match on Filename"
+  },
+  {
+    "sport": "College",
+    "file": "C:\\Users\\dhwan\\Desktop\\ImageCache\\Logos\\College\\Colleges\\Oakland Golden Grizzlies Logo.gif",
+    "suggested": null,
+    "confidence": 0.0,
+    "reason": "no match"
+  },
+  {
+    "sport": "College",
+    "file": "C:\\Users\\dhwan\\Desktop\\ImageCache\\Logos\\College\\Colleges\\Oral Roberts Golden Eagles.gif",
+    "suggested": null,
+    "confidence": 0.0,
+    "reason": "no match"
+  },
+  {
+    "sport": "College",
+    "file": "C:\\Users\\dhwan\\Desktop\\ImageCache\\Logos\\College\\Colleges\\Pacific Tigers Logo.gif",
+    "suggested": null,
+    "confidence": 0.0,
+    "reason": "no match"
+  },
+  {
+    "sport": "College",
+    "file": "C:\\Users\\dhwan\\Desktop\\ImageCache\\Logos\\College\\Colleges\\Pepperdine Waves Logo.gif",
+    "suggested": null,
+    "confidence": 0.0,
+    "reason": "no match"
+  },
+  {
+    "sport": "College",
+    "file": "C:\\Users\\dhwan\\Desktop\\ImageCache\\Logos\\College\\Colleges\\Portland Pilots.gif",
+    "suggested": null,
+    "confidence": 0.0,
+    "reason": "no match"
+  },
+  {
+    "sport": "College",
+    "file": "C:\\Users\\dhwan\\Desktop\\ImageCache\\Logos\\College\\Colleges\\Providence Friars Logo.gif",
+    "suggested": null,
+    "confidence": 0.0,
+    "reason": "no match"
+  },
+  {
+    "sport": "College",
+    "file": "C:\\Users\\dhwan\\Desktop\\ImageCache\\Logos\\College\\Colleges\\Purdue Fort Wayne Mastodons Logo.gif",
+    "suggested": "Purdue",
+    "confidence": 0.7,
+    "reason": "Starts with Purdue"
+  },
+  {
+    "sport": "College",
+    "file": "C:\\Users\\dhwan\\Desktop\\ImageCache\\Logos\\College\\Colleges\\Queens Royals Logo.gif",
+    "suggested": null,
+    "confidence": 0.0,
+    "reason": "no match"
+  },
+  {
+    "sport": "College",
+    "file": "C:\\Users\\dhwan\\Desktop\\ImageCache\\Logos\\College\\Colleges\\Quinnipiac Bobcats Logo.gif",
+    "suggested": null,
+    "confidence": 0.0,
+    "reason": "no match"
+  },
+  {
+    "sport": "College",
+    "file": "C:\\Users\\dhwan\\Desktop\\ImageCache\\Logos\\College\\Colleges\\Radford Highlanders Logo.gif",
+    "suggested": null,
+    "confidence": 0.0,
+    "reason": "no match"
+  },
+  {
+    "sport": "College",
+    "file": "C:\\Users\\dhwan\\Desktop\\ImageCache\\Logos\\College\\Colleges\\Southern Utah Thunderbirds Logo.png",
+    "suggested": "Southern Utah Thunderbirds Logo.png",
+    "confidence": 0.5,
+    "reason": "Partial match. Name is not in the list of Official Entities."
+  },
+  {
+    "sport": "College",
+    "file": "C:\\Users\\dhwan\\Desktop\\ImageCache\\Logos\\College\\Colleges\\Stonehill Chieftains Logo.gif",
+    "suggested": null,
+    "confidence": 0.0,
+    "reason": "No match found"
+  },
+  {
+    "sport": "College",
+    "file": "C:\\Users\\dhwan\\Desktop\\ImageCache\\Logos\\College\\Colleges\\Tarleton Texans Logo.gif",
+    "suggested": "Houston Texans",
+    "confidence": 0.3,
+    "reason": "Partial match on team name"
+  },
+  {
+    "sport": "College",
+    "file": "C:\\Users\\dhwan\\Desktop\\ImageCache\\Logos\\College\\Colleges\\Tennessee State Tigers Logo.gif",
+    "suggested": "Tennessee",
+    "confidence": 0.3,
+    "reason": "Partial match on team name"
+  },
+  {
+    "sport": "College",
+    "file": "C:\\Users\\dhwan\\Desktop\\ImageCache\\Logos\\College\\Colleges\\Tennessee Tech Golden Eagles Logo.gif",
+    "suggested": null,
+    "confidence": 0.0,
+    "reason": "No match found"
+  },
+  {
+    "sport": "College",
+    "file": "C:\\Users\\dhwan\\Desktop\\ImageCache\\Logos\\College\\Colleges\\Texas A&M-CC Islanders Logo.gif",
+    "suggested": "Texas A&M",
+    "confidence": 0.3,
+    "reason": "Partial match on team name"
+  },
+  {
+    "sport": "College",
+    "file": "C:\\Users\\dhwan\\Desktop\\ImageCache\\Logos\\College\\Colleges\\Texas-Arlington Mavericks Logo.gif",
+    "suggested": "Texas",
+    "confidence": 0.3,
+    "reason": "Partial name match"
+  },
+  {
+    "sport": "College",
+    "file": "C:\\Users\\dhwan\\Desktop\\ImageCache\\Logos\\College\\Colleges\\Texas-Pan American Broncs Logo.gif",
+    "suggested": "Texas",
+    "confidence": 0.3,
+    "reason": "Partial name match"
+  },
+  {
+    "sport": "College",
+    "file": "C:\\Users\\dhwan\\Desktop\\ImageCache\\Logos\\College\\Colleges\\Texas-SA Roadrunners Logo.gif",
+    "suggested": "Texas",
+    "confidence": 0.3,
+    "reason": "Partial name match"
+  },
+  {
+    "sport": "College",
+    "file": "C:\\Users\\dhwan\\Desktop\\ImageCache\\Logos\\College\\Colleges\\UC Riverside Highlanders Logo.gif",
+    "suggested": "UCF",
+    "confidence": 0.3,
+    "reason": "Partial name match"
+  },
+  {
+    "sport": "College",
+    "file": "C:\\Users\\dhwan\\Desktop\\ImageCache\\Logos\\College\\Colleges\\UC San Diego Tritons Logo.gif",
+    "suggested": "UCF",
+    "confidence": 0.3,
+    "reason": "Partial name match"
+  },
+  {
+    "sport": "College",
+    "file": "C:\\Users\\dhwan\\Desktop\\ImageCache\\Logos\\College\\Colleges\\UCSB Gauchos Logo.gif",
+    "suggested": "USC",
+    "confidence": 0.3,
+    "reason": "Partial name match"
+  },
+  {
+    "sport": "College",
+    "file": "C:\\Users\\dhwan\\Desktop\\ImageCache\\Logos\\College\\Colleges\\UMBC Retrievers Logo.gif",
+    "suggested": "UMass",
+    "confidence": 0.5,
+    "reason": "Partial name match"
+  },
+  {
+    "sport": "College",
+    "file": "C:\\Users\\dhwan\\Desktop\\ImageCache\\Logos\\College\\Colleges\\UMKC Kangaroos Logo.gif",
+    "suggested": "Texas",
+    "confidence": 0.1,
+    "reason": "Partial match on team name"
+  },
+  {
+    "sport": "College",
+    "file": "C:\\Users\\dhwan\\Desktop\\ImageCache\\Logos\\College\\Colleges\\UNF Ospreys Logo.gif",
+    "suggested": null,
+    "confidence": 0.0,
+    "reason": "No match found"
+  },
+  {
+    "sport": "College",
+    "file": "C:\\Users\\dhwan\\Desktop\\ImageCache\\Logos\\College\\Colleges\\USC Upstate Spartans Logo.gif",
+    "suggested": "USC",
+    "confidence": 0.5,
+    "reason": "Partial match on team name"
+  },
+  {
+    "sport": "College",
+    "file": "C:\\Users\\dhwan\\Desktop\\ImageCache\\Logos\\College\\Colleges\\Utah Tech Trailblazers Logo.gif",
+    "suggested": "Utah",
+    "confidence": 0.5,
+    "reason": "Partial match on team name"
+  },
+  {
+    "sport": "College",
+    "file": "C:\\Users\\dhwan\\Desktop\\ImageCache\\Logos\\College\\Colleges\\Utah Valley Wolverines Logo.gif",
+    "suggested": "Utah",
+    "confidence": 0.5,
+    "reason": "Partial match on team name"
+  },
+  {
+    "sport": "College",
+    "file": "C:\\Users\\dhwan\\Desktop\\ImageCache\\Logos\\College\\Colleges\\UTPB Falcons Logo.gif",
+    "suggested": "AFC",
+    "confidence": 0.3,
+    "reason": "Partial match on team name"
+  },
+  {
+    "sport": "College",
+    "file": "C:\\Users\\dhwan\\Desktop\\ImageCache\\Logos\\College\\Colleges\\Virginia Commonwealth Rams Logo.gif",
+    "suggested": null,
+    "confidence": 0.0,
+    "reason": "No good match"
+  },
+  {
+    "sport": "College",
+    "file": "C:\\Users\\dhwan\\Desktop\\ImageCache\\Logos\\College\\Colleges\\UTRGV Vaqueros Logo.gif",
+    "suggested": null,
+    "confidence": 0.0,
+    "reason": "No good match"
+  },
+  {
+    "sport": "College",
+    "file": "C:\\Users\\dhwan\\Desktop\\ImageCache\\Logos\\College\\Colleges\\Vermont Catamounts Logo.png",
+    "suggested": null,
+    "confidence": 0.0,
+    "reason": "No good match"
+  },
+  {
+    "sport": "College",
+    "file": "C:\\Users\\dhwan\\Desktop\\ImageCache\\Logos\\College\\Colleges\\Wayne State Tartars Logo.gif",
+    "suggested": null,
+    "confidence": 0.0,
+    "reason": "No good match"
+  },
+  {
+    "sport": "College",
+    "file": "C:\\Users\\dhwan\\Desktop\\ImageCache\\Logos\\College\\Colleges\\Wayne State Warriors Logo.gif",
+    "suggested": null,
+    "confidence": 0.0,
+    "reason": "No good match"
+  },
+  {
+    "sport": "College",
+    "file": "C:\\Users\\dhwan\\Desktop\\ImageCache\\Logos\\College\\Colleges\\Wichita State Shockers Logo.gif",
+    "suggested": null,
+    "confidence": 0.0,
+    "reason": "No good match"
+  },
+  {
+    "sport": "College",
+    "file": "C:\\Users\\dhwan\\Desktop\\ImageCache\\Logos\\College\\Colleges\\Winthrop Eagles Logo.gif",
+    "suggested": null,
+    "confidence": 0.0,
+    "reason": "No good match"
+  },
+  {
+    "sport": "College",
+    "file": "C:\\Users\\dhwan\\Desktop\\ImageCache\\Logos\\College\\Colleges\\Wisconsin-Green Bay Phoenix Logo.gif",
+    "suggested": null,
+    "confidence": 0.0,
+    "reason": "No good match"
+  },
+  {
+    "sport": "College",
+    "file": "C:\\Users\\dhwan\\Desktop\\ImageCache\\Logos\\College\\Colleges\\Wisconsin-Milwaukee Panthers Logo.gif",
+    "suggested": null,
+    "confidence": 0.0,
+    "reason": "No good match"
+  },
+  {
+    "sport": "College",
+    "file": "C:\\Users\\dhwan\\Desktop\\ImageCache\\Logos\\College\\Colleges\\Wright State Raiders Logo.gif",
+    "suggested": null,
+    "confidence": 0.0,
+    "reason": "No good match"
+  },
+  {
+    "sport": "College",
+    "file": "C:\\Users\\dhwan\\Desktop\\ImageCache\\Logos\\College\\Colleges\\Xavier Musketeers Logo.gif",
+    "suggested": null,
+    "confidence": 0.0,
+    "reason": "No good match"
+  }
+]
