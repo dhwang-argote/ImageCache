@@ -1,0 +1,450 @@
+TYPE,NAME,SGO_FORMAT,SPORT_ID,LEAGUE_ID,LEAGUE_NAME,SGO_SPORT_KEY,HAS_LOGO,CURRENT_PATH,PREFERRED_FILE_NAME,PREFERRED_FILE_PATH,STATUS
+TEAM,Augsburg,Augsburg,SOCCER,BUNDESLIGA,Bundesliga,bundesliga,NO,NONE,augsburg.gif,soccer/germany-bundesliga/augsburg.gif,DONE
+TEAM,Bayern,Bayern,SOCCER,BUNDESLIGA,Bundesliga,bundesliga,NO,NONE,bayern.gif,soccer/germany-bundesliga/bayern.gif,DONE
+TEAM,Bremen,Bremen,SOCCER,BUNDESLIGA,Bundesliga,bundesliga,NO,NONE,bremen.gif,soccer/germany-bundesliga/bremen.gif,DONE
+TEAM,Dortmund,Dortmund,SOCCER,BUNDESLIGA,Bundesliga,bundesliga,NO,NONE,dortmund.gif,soccer/germany-bundesliga/dortmund.gif,DONE
+TEAM,Frankfurt,Frankfurt,SOCCER,BUNDESLIGA,Bundesliga,bundesliga,NO,NONE,frankfurt.gif,soccer/germany-bundesliga/frankfurt.gif,DONE
+TEAM,Freiburg,Freiburg,SOCCER,BUNDESLIGA,Bundesliga,bundesliga,NO,NONE,freiburg.gif,soccer/germany-bundesliga/freiburg.gif,DONE
+TEAM,Heidenheim,Heidenheim,SOCCER,BUNDESLIGA,Bundesliga,bundesliga,NO,NONE,heidenheim.gif,soccer/germany-bundesliga/heidenheim.gif,❌ MISSING
+TEAM,Hoffenheim,Hoffenheim,SOCCER,BUNDESLIGA,Bundesliga,bundesliga,NO,NONE,hoffenheim.gif,soccer/germany-bundesliga/hoffenheim.gif,DONE
+TEAM,HSV,HSV,SOCCER,BUNDESLIGA,Bundesliga,bundesliga,NO,NONE,hsv.gif,soccer/germany-bundesliga/hsv.gif,DONE
+TEAM,Köln,Köln,SOCCER,BUNDESLIGA,Bundesliga,bundesliga,YES,soccer/germany-bundesliga/koln.gif,koln.gif,soccer/germany-bundesliga/koln.gif,✅ Logo exists
+TEAM,Leipzig,Leipzig,SOCCER,BUNDESLIGA,Bundesliga,bundesliga,NO,NONE,leipzig.gif,soccer/germany-bundesliga/leipzig.gif,Low Confidence: 0.6
+TEAM,Leverkusen,Leverkusen,SOCCER,BUNDESLIGA,Bundesliga,bundesliga,NO,NONE,leverkusen.gif,soccer/germany-bundesliga/leverkusen.gif,DONE
+TEAM,M'gladbach,M'gladbach,SOCCER,BUNDESLIGA,Bundesliga,bundesliga,NO,NONE,mgladbach.gif,soccer/germany-bundesliga/mgladbach.gif,DONE
+TEAM,Mainz 05,Mainz 05,SOCCER,BUNDESLIGA,Bundesliga,bundesliga,YES,soccer/germany-bundesliga/mainz-05.gif,mainz-05.gif,soccer/germany-bundesliga/mainz-05.gif,✅ Logo exists
+TEAM,St. Pauli,St. Pauli,SOCCER,BUNDESLIGA,Bundesliga,bundesliga,NO,NONE,st-pauli.gif,soccer/germany-bundesliga/st-pauli.gif,Low Confidence: 0.6
+TEAM,Stuttgart,Stuttgart,SOCCER,BUNDESLIGA,Bundesliga,bundesliga,NO,NONE,stuttgart.gif,soccer/germany-bundesliga/stuttgart.gif,DONE
+TEAM,Union Berlin,Union Berlin,SOCCER,BUNDESLIGA,Bundesliga,bundesliga,NO,NONE,union-berlin.gif,soccer/germany-bundesliga/union-berlin.gif,Low Confidence: 0.7
+TEAM,Wolfsburg,Wolfsburg,SOCCER,BUNDESLIGA,Bundesliga,bundesliga,NO,NONE,wolfsburg.gif,soccer/germany-bundesliga/wolfsburg.gif,DONE
+TEAM,Arsenal,Arsenal,SOCCER,EPL,Premier League,epl,NO,NONE,arsenal.gif,soccer/epl/arsenal.gif,No Match Found
+TEAM,Aston Villa,Aston Villa,SOCCER,EPL,Premier League,epl,NO,NONE,aston-villa.gif,soccer/epl/aston-villa.gif,No Match Found
+TEAM,Bournemouth,Bournemouth,SOCCER,EPL,Premier League,epl,NO,NONE,bournemouth.gif,soccer/epl/bournemouth.gif,No Match Found
+TEAM,Brentford,Brentford,SOCCER,EPL,Premier League,epl,NO,NONE,brentford.gif,soccer/epl/brentford.gif,No Match Found
+TEAM,Brighton,Brighton,SOCCER,EPL,Premier League,epl,NO,NONE,brighton.gif,soccer/epl/brighton.gif,No Match Found
+TEAM,Burnley,Burnley,SOCCER,EPL,Premier League,epl,NO,NONE,burnley.gif,soccer/epl/burnley.gif,No Match Found
+TEAM,Chelsea,Chelsea,SOCCER,EPL,Premier League,epl,NO,NONE,chelsea.gif,soccer/epl/chelsea.gif,No Match Found
+TEAM,Crystal Palace,Crystal Palace,SOCCER,EPL,Premier League,epl,NO,NONE,crystal-palace.gif,soccer/epl/crystal-palace.gif,No Match Found
+TEAM,Everton,Everton,SOCCER,EPL,Premier League,epl,NO,NONE,everton.gif,soccer/epl/everton.gif,No Match Found
+TEAM,Forest,Forest,SOCCER,EPL,Premier League,epl,NO,NONE,forest.gif,soccer/epl/forest.gif,No Match Found
+TEAM,Fulham,Fulham,SOCCER,EPL,Premier League,epl,NO,NONE,fulham.gif,soccer/epl/fulham.gif,No Match Found
+TEAM,Leeds,Leeds,SOCCER,EPL,Premier League,epl,NO,NONE,leeds.gif,soccer/epl/leeds.gif,No Match Found
+TEAM,Liverpool,Liverpool,SOCCER,EPL,Premier League,epl,NO,NONE,liverpool.gif,soccer/epl/liverpool.gif,No Match Found
+TEAM,Man City,Man City,SOCCER,EPL,Premier League,epl,NO,NONE,man-city.gif,soccer/epl/man-city.gif,No Match Found
+TEAM,Man Utd,Man Utd,SOCCER,EPL,Premier League,epl,NO,NONE,man-utd.gif,soccer/epl/man-utd.gif,No Match Found
+TEAM,Newcastle,Newcastle,SOCCER,EPL,Premier League,epl,NO,NONE,newcastle.gif,soccer/epl/newcastle.gif,No Match Found
+TEAM,Sunderland,Sunderland,SOCCER,EPL,Premier League,epl,NO,NONE,sunderland.gif,soccer/epl/sunderland.gif,No Match Found
+TEAM,Tottenham,Tottenham,SOCCER,EPL,Premier League,epl,NO,NONE,tottenham.gif,soccer/epl/tottenham.gif,No Match Found
+TEAM,West Ham,West Ham,SOCCER,EPL,Premier League,epl,NO,NONE,west-ham.gif,soccer/epl/west-ham.gif,No Match Found
+TEAM,Wolves,Wolves,SOCCER,EPL,Premier League,epl,NO,NONE,wolves.gif,soccer/epl/wolves.gif,No Match Found
+TEAM,76ers,76ers,BASKETBALL,NBA,NBA,nba,NO,NONE,76ers.gif,basketball/nba/76ers.gif,DONE
+TEAM,Bucks,Bucks,BASKETBALL,NBA,NBA,nba,NO,NONE,bucks.gif,basketball/nba/bucks.gif,DONE
+TEAM,Bulls,Bulls,BASKETBALL,NBA,NBA,nba,NO,NONE,bulls.gif,basketball/nba/bulls.gif,DONE
+TEAM,Cavaliers,Cavaliers,BASKETBALL,NBA,NBA,nba,NO,NONE,cavaliers.gif,basketball/nba/cavaliers.gif,DONE
+TEAM,Celtics,Celtics,BASKETBALL,NBA,NBA,nba,NO,NONE,celtics.gif,basketball/nba/celtics.gif,DONE
+TEAM,Clippers,Clippers,BASKETBALL,NBA,NBA,nba,NO,NONE,clippers.gif,basketball/nba/clippers.gif,DONE
+TEAM,Grizzlies,Grizzlies,BASKETBALL,NBA,NBA,nba,NO,NONE,grizzlies.gif,basketball/nba/grizzlies.gif,DONE
+TEAM,Hawks,Hawks,BASKETBALL,NBA,NBA,nba,NO,NONE,hawks.gif,basketball/nba/hawks.gif,DONE
+TEAM,Heat,Heat,BASKETBALL,NBA,NBA,nba,NO,NONE,heat.gif,basketball/nba/heat.gif,DONE
+TEAM,Hornets,Hornets,BASKETBALL,NBA,NBA,nba,NO,NONE,hornets.gif,basketball/nba/hornets.gif,DONE
+TEAM,Jazz,Jazz,BASKETBALL,NBA,NBA,nba,NO,NONE,jazz.gif,basketball/nba/jazz.gif,DONE
+TEAM,Kings,Kings,BASKETBALL,NBA,NBA,nba,NO,NONE,kings.gif,basketball/nba/kings.gif,DONE
+TEAM,Knicks,Knicks,BASKETBALL,NBA,NBA,nba,NO,NONE,knicks.gif,basketball/nba/knicks.gif,DONE
+TEAM,Lakers,Lakers,BASKETBALL,NBA,NBA,nba,NO,NONE,lakers.gif,basketball/nba/lakers.gif,DONE
+TEAM,Magic,Magic,BASKETBALL,NBA,NBA,nba,NO,NONE,magic.gif,basketball/nba/magic.gif,DONE
+TEAM,Mavericks,Mavericks,BASKETBALL,NBA,NBA,nba,NO,NONE,mavericks.gif,basketball/nba/mavericks.gif,DONE
+TEAM,Nets,Nets,BASKETBALL,NBA,NBA,nba,NO,NONE,nets.gif,basketball/nba/nets.gif,DONE
+TEAM,Nuggets,Nuggets,BASKETBALL,NBA,NBA,nba,NO,NONE,nuggets.gif,basketball/nba/nuggets.gif,DONE
+TEAM,Pacers,Pacers,BASKETBALL,NBA,NBA,nba,NO,NONE,pacers.gif,basketball/nba/pacers.gif,DONE
+TEAM,Pelicans,Pelicans,BASKETBALL,NBA,NBA,nba,NO,NONE,pelicans.gif,basketball/nba/pelicans.gif,DONE
+TEAM,Pistons,Pistons,BASKETBALL,NBA,NBA,nba,NO,NONE,pistons.gif,basketball/nba/pistons.gif,DONE
+TEAM,Raptors,Raptors,BASKETBALL,NBA,NBA,nba,NO,NONE,raptors.gif,basketball/nba/raptors.gif,DONE
+TEAM,Rockets,Rockets,BASKETBALL,NBA,NBA,nba,NO,NONE,rockets.gif,basketball/nba/rockets.gif,DONE
+TEAM,Spurs,Spurs,BASKETBALL,NBA,NBA,nba,NO,NONE,spurs.gif,basketball/nba/spurs.gif,DONE
+TEAM,Suns,Suns,BASKETBALL,NBA,NBA,nba,NO,NONE,suns.gif,basketball/nba/suns.gif,DONE
+TEAM,Thunder,Thunder,BASKETBALL,NBA,NBA,nba,NO,NONE,thunder.gif,basketball/nba/thunder.gif,DONE
+TEAM,Timberwolves,Timberwolves,BASKETBALL,NBA,NBA,nba,NO,NONE,timberwolves.gif,basketball/nba/timberwolves.gif,DONE
+TEAM,Trail Blazers,Trail Blazers,BASKETBALL,NBA,NBA,nba,NO,NONE,trail-blazers.gif,basketball/nba/trail-blazers.gif,DONE
+TEAM,Warriors,Warriors,BASKETBALL,NBA,NBA,nba,NO,NONE,warriors.gif,basketball/nba/warriors.gif,DONE
+TEAM,Wizards,Wizards,BASKETBALL,NBA,NBA,nba,NO,NONE,wizards.gif,basketball/nba/wizards.gif,DONE
+TEAM,A&M–Commerce,A&M–Commerce,BASKETBALL,NCAAB,NCAA Basketball,ncaab,NO,NONE,amcommerce.gif,college/basketball/amcommerce.gif,DONE
+TEAM,Abilene Christian,Abilene Christian,BASKETBALL,NCAAB,NCAA Basketball,ncaab,NO,NONE,abilene-christian.gif,college/basketball/abilene-christian.gif,DONE
+TEAM,Air Force,Air Force,BASKETBALL,NCAAB,NCAA Basketball,ncaab,NO,NONE,air-force.gif,college/basketball/air-force.gif,DONE
+TEAM,Akron,Akron,BASKETBALL,NCAAB,NCAA Basketball,ncaab,NO,NONE,akron.gif,college/basketball/akron.gif,DONE
+TEAM,Alabama,Alabama,BASKETBALL,NCAAB,NCAA Basketball,ncaab,NO,NONE,alabama.gif,college/basketball/alabama.gif,DONE
+TEAM,Alabama A&M,Alabama A&M,BASKETBALL,NCAAB,NCAA Basketball,ncaab,NO,NONE,alabama-am.gif,college/basketball/alabama-am.gif,DONE
+TEAM,Alabama St.,Alabama St.,BASKETBALL,NCAAB,NCAA Basketball,ncaab,NO,NONE,alabama-st.gif,college/basketball/alabama-st.gif,DONE
+TEAM,Albany NY,Albany NY,BASKETBALL,NCAAB,NCAA Basketball,ncaab,NO,NONE,albany-ny.gif,college/basketball/albany-ny.gif,DONE
+TEAM,Alcorn St.,Alcorn St.,BASKETBALL,NCAAB,NCAA Basketball,ncaab,NO,NONE,alcorn-st.gif,college/basketball/alcorn-st.gif,DONE
+TEAM,American Univ.,American Univ.,BASKETBALL,NCAAB,NCAA Basketball,ncaab,NO,NONE,american-univ.gif,college/basketball/american-univ.gif,DONE
+TEAM,Arizona,Arizona,BASKETBALL,NCAAB,NCAA Basketball,ncaab,NO,NONE,arizona.gif,college/basketball/arizona.gif,DONE
+TEAM,Arizona State,Arizona State,BASKETBALL,NCAAB,NCAA Basketball,ncaab,NO,NONE,arizona-state.gif,college/basketball/arizona-state.gif,DONE
+TEAM,Arkansas,Arkansas,BASKETBALL,NCAAB,NCAA Basketball,ncaab,NO,NONE,arkansas.gif,college/basketball/arkansas.gif,DONE
+TEAM,Arkansas St.,Arkansas St.,BASKETBALL,NCAAB,NCAA Basketball,ncaab,NO,NONE,arkansas-st.gif,college/basketball/arkansas-st.gif,DONE
+TEAM,Arkansas-Pine,Arkansas-Pine,BASKETBALL,NCAAB,NCAA Basketball,ncaab,NO,NONE,arkansas-pine.gif,college/basketball/arkansas-pine.gif,DONE
+TEAM,Army,Army,BASKETBALL,NCAAB,NCAA Basketball,ncaab,NO,NONE,army.gif,college/basketball/army.gif,DONE
+TEAM,Auburn,Auburn,BASKETBALL,NCAAB,NCAA Basketball,ncaab,NO,NONE,auburn.gif,college/basketball/auburn.gif,DONE
+TEAM,Austin Peay,Austin Peay,BASKETBALL,NCAAB,NCAA Basketball,ncaab,NO,NONE,austin-peay.gif,college/basketball/austin-peay.gif,DONE
+TEAM,Ball State,Ball State,BASKETBALL,NCAAB,NCAA Basketball,ncaab,NO,NONE,ball-state.gif,college/basketball/ball-state.gif,DONE
+TEAM,Baylor,Baylor,BASKETBALL,NCAAB,NCAA Basketball,ncaab,NO,NONE,baylor.gif,college/basketball/baylor.gif,DONE
+TEAM,Bellarmine,Bellarmine,BASKETBALL,NCAAB,NCAA Basketball,ncaab,NO,NONE,bellarmine.gif,college/basketball/bellarmine.gif,DONE
+TEAM,Belmont,Belmont,BASKETBALL,NCAAB,NCAA Basketball,ncaab,NO,NONE,belmont.gif,college/basketball/belmont.gif,DONE
+TEAM,Bethune-Cookman,Bethune-Cookman,BASKETBALL,NCAAB,NCAA Basketball,ncaab,NO,NONE,bethune-cookman.gif,college/basketball/bethune-cookman.gif,DONE
+TEAM,Binghamton,Binghamton,BASKETBALL,NCAAB,NCAA Basketball,ncaab,NO,NONE,binghamton.gif,college/basketball/binghamton.gif,DONE
+TEAM,Boise State,Boise State,BASKETBALL,NCAAB,NCAA Basketball,ncaab,NO,NONE,boise-state.gif,college/basketball/boise-state.gif,DONE
+TEAM,Boston College,Boston College,BASKETBALL,NCAAB,NCAA Basketball,ncaab,NO,NONE,boston-college.gif,college/basketball/boston-college.gif,DONE
+TEAM,Boston Uni.,Boston Uni.,BASKETBALL,NCAAB,NCAA Basketball,ncaab,NO,NONE,boston-uni.gif,college/basketball/boston-uni.gif,DONE
+TEAM,Bowling Green,Bowling Green,BASKETBALL,NCAAB,NCAA Basketball,ncaab,NO,NONE,bowling-green.gif,college/basketball/bowling-green.gif,DONE
+TEAM,Brown,Brown,BASKETBALL,NCAAB,NCAA Basketball,ncaab,NO,NONE,brown.gif,college/basketball/brown.gif,DONE
+TEAM,Bryant,Bryant,BASKETBALL,NCAAB,NCAA Basketball,ncaab,NO,NONE,bryant.gif,college/basketball/bryant.gif,DONE
+TEAM,Bucknell,Bucknell,BASKETBALL,NCAAB,NCAA Basketball,ncaab,NO,NONE,bucknell.gif,college/basketball/bucknell.gif,DONE
+TEAM,Buffalo,Buffalo,BASKETBALL,NCAAB,NCAA Basketball,ncaab,NO,NONE,buffalo.gif,college/basketball/buffalo.gif,DONE
+TEAM,Butler,Butler,BASKETBALL,NCAAB,NCAA Basketball,ncaab,NO,NONE,butler.gif,college/basketball/butler.gif,DONE
+TEAM,BYU,BYU,BASKETBALL,NCAAB,NCAA Basketball,ncaab,NO,NONE,byu.gif,college/basketball/byu.gif,DONE
+TEAM,C Connecticut St.,C Connecticut St.,BASKETBALL,NCAAB,NCAA Basketball,ncaab,NO,NONE,c-connecticut-st.gif,college/basketball/c-connecticut-st.gif,Low Confidence: 0.8
+TEAM,Cal Poly,Cal Poly,BASKETBALL,NCAAB,NCAA Basketball,ncaab,NO,NONE,cal-poly.gif,college/basketball/cal-poly.gif,DONE
+TEAM,California,California,BASKETBALL,NCAAB,NCAA Basketball,ncaab,NO,NONE,california.gif,college/basketball/california.gif,DONE
+TEAM,California Baptist,California Baptist,BASKETBALL,NCAAB,NCAA Basketball,ncaab,NO,NONE,california-baptist.gif,college/basketball/california-baptist.gif,DONE
+TEAM,Campbell,Campbell,BASKETBALL,NCAAB,NCAA Basketball,ncaab,NO,NONE,campbell.gif,college/basketball/campbell.gif,DONE
+TEAM,Canisius,Canisius,BASKETBALL,NCAAB,NCAA Basketball,ncaab,NO,NONE,canisius.gif,college/basketball/canisius.gif,DONE
+TEAM,Central Florida,Central Florida,BASKETBALL,NCAAB,NCAA Basketball,ncaab,NO,NONE,central-florida.gif,college/basketball/central-florida.gif,DONE
+TEAM,Central Michigan,Central Michigan,BASKETBALL,NCAAB,NCAA Basketball,ncaab,NO,NONE,central-michigan.gif,college/basketball/central-michigan.gif,DONE
+TEAM,Charleston,Charleston,BASKETBALL,NCAAB,NCAA Basketball,ncaab,NO,NONE,charleston.gif,college/basketball/charleston.gif,DONE
+TEAM,Charleston Southern,Charleston Southern,BASKETBALL,NCAAB,NCAA Basketball,ncaab,NO,NONE,charleston-southern.gif,college/basketball/charleston-southern.gif,DONE
+TEAM,Charlotte,Charlotte,BASKETBALL,NCAAB,NCAA Basketball,ncaab,NO,NONE,charlotte.gif,college/basketball/charlotte.gif,DONE
+TEAM,Chattanooga,Chattanooga,BASKETBALL,NCAAB,NCAA Basketball,ncaab,NO,NONE,chattanooga.gif,college/basketball/chattanooga.gif,DONE
+TEAM,Chicago State,Chicago State,BASKETBALL,NCAAB,NCAA Basketball,ncaab,NO,NONE,chicago-state.gif,college/basketball/chicago-state.gif,DONE
+TEAM,Cincinnati,Cincinnati,BASKETBALL,NCAAB,NCAA Basketball,ncaab,NO,NONE,cincinnati.gif,college/basketball/cincinnati.gif,DONE
+TEAM,Clemson,Clemson,BASKETBALL,NCAAB,NCAA Basketball,ncaab,NO,NONE,clemson.gif,college/basketball/clemson.gif,DONE
+TEAM,Coastal Carolina,Coastal Carolina,BASKETBALL,NCAAB,NCAA Basketball,ncaab,NO,NONE,coastal-carolina.gif,college/basketball/coastal-carolina.gif,DONE
+TEAM,Colgate,Colgate,BASKETBALL,NCAAB,NCAA Basketball,ncaab,NO,NONE,colgate.gif,college/basketball/colgate.gif,DONE
+TEAM,Colorado,Colorado,BASKETBALL,NCAAB,NCAA Basketball,ncaab,NO,NONE,colorado.gif,college/basketball/colorado.gif,DONE
+TEAM,Colorado St.,Colorado St.,BASKETBALL,NCAAB,NCAA Basketball,ncaab,NO,NONE,colorado-st.gif,college/basketball/colorado-st.gif,DONE
+TEAM,Columbia,Columbia,BASKETBALL,NCAAB,NCAA Basketball,ncaab,YES,college/colleges/columbia.png,columbia.gif,college/basketball/columbia.gif,✅ Logo exists
+TEAM,Coppin St.,Coppin St.,BASKETBALL,NCAAB,NCAA Basketball,ncaab,NO,NONE,coppin-st.gif,college/basketball/coppin-st.gif,DONE
+TEAM,Cornell,Cornell,BASKETBALL,NCAAB,NCAA Basketball,ncaab,NO,NONE,cornell.gif,college/basketball/cornell.gif,DONE
+TEAM,Creighton,Creighton,BASKETBALL,NCAAB,NCAA Basketball,ncaab,NO,NONE,creighton.gif,college/basketball/creighton.gif,DONE
+TEAM,CSU Northridge,CSU Northridge,BASKETBALL,NCAAB,NCAA Basketball,ncaab,NO,NONE,csu-northridge.gif,college/basketball/csu-northridge.gif,DONE
+TEAM,Dartmouth,Dartmouth,BASKETBALL,NCAAB,NCAA Basketball,ncaab,NO,NONE,dartmouth.gif,college/basketball/dartmouth.gif,DONE
+TEAM,Davidson,Davidson,BASKETBALL,NCAAB,NCAA Basketball,ncaab,NO,NONE,davidson.gif,college/basketball/davidson.gif,DONE
+TEAM,Delaware,Delaware,BASKETBALL,NCAAB,NCAA Basketball,ncaab,NO,NONE,delaware.gif,college/basketball/delaware.gif,DONE
+TEAM,Denver,Denver,BASKETBALL,NCAAB,NCAA Basketball,ncaab,NO,NONE,denver.gif,college/basketball/denver.gif,DONE
+TEAM,DePaul,DePaul,BASKETBALL,NCAAB,NCAA Basketball,ncaab,NO,NONE,depaul.gif,college/basketball/depaul.gif,DONE
+TEAM,Detroit,Detroit,BASKETBALL,NCAAB,NCAA Basketball,ncaab,NO,NONE,detroit.gif,college/basketball/detroit.gif,DONE
+TEAM,Drake,Drake,BASKETBALL,NCAAB,NCAA Basketball,ncaab,NO,NONE,drake.gif,college/basketball/drake.gif,DONE
+TEAM,Drexel,Drexel,BASKETBALL,NCAAB,NCAA Basketball,ncaab,NO,NONE,drexel.gif,college/basketball/drexel.gif,DONE
+TEAM,Duke,Duke,BASKETBALL,NCAAB,NCAA Basketball,ncaab,NO,NONE,duke.gif,college/basketball/duke.gif,DONE
+TEAM,Duquesne,Duquesne,BASKETBALL,NCAAB,NCAA Basketball,ncaab,NO,NONE,duquesne.gif,college/basketball/duquesne.gif,DONE
+TEAM,East Carolina,East Carolina,BASKETBALL,NCAAB,NCAA Basketball,ncaab,NO,NONE,east-carolina.gif,college/basketball/east-carolina.gif,DONE
+TEAM,Eastern Illinois,Eastern Illinois,BASKETBALL,NCAAB,NCAA Basketball,ncaab,NO,NONE,eastern-illinois.gif,college/basketball/eastern-illinois.gif,DONE
+TEAM,Eastern Kentucky,Eastern Kentucky,BASKETBALL,NCAAB,NCAA Basketball,ncaab,YES,college/colleges/eastern-kentucky.gif,eastern-kentucky.gif,college/basketball/eastern-kentucky.gif,✅ Logo exists
+TEAM,Eastern Michigan,Eastern Michigan,BASKETBALL,NCAAB,NCAA Basketball,ncaab,NO,NONE,eastern-michigan.gif,college/basketball/eastern-michigan.gif,DONE
+TEAM,Eastern Washington,Eastern Washington,BASKETBALL,NCAAB,NCAA Basketball,ncaab,NO,NONE,eastern-washington.gif,college/basketball/eastern-washington.gif,DONE
+TEAM,Elon Phoenix,Elon Phoenix,BASKETBALL,NCAAB,NCAA Basketball,ncaab,YES,college/colleges/elon-phoenix.gif,elon-phoenix.gif,college/basketball/elon-phoenix.gif,✅ Logo exists
+TEAM,Evansville,Evansville,BASKETBALL,NCAAB,NCAA Basketball,ncaab,NO,NONE,evansville.gif,college/basketball/evansville.gif,DONE
+TEAM,Fairfield,Fairfield,BASKETBALL,NCAAB,NCAA Basketball,ncaab,NO,NONE,fairfield.gif,college/basketball/fairfield.gif,DONE
+TEAM,Fairleigh Dickinson,Fairleigh Dickinson,BASKETBALL,NCAAB,NCAA Basketball,ncaab,NO,NONE,fairleigh-dickinson.gif,college/basketball/fairleigh-dickinson.gif,DONE
+TEAM,FGCU,FGCU,BASKETBALL,NCAAB,NCAA Basketball,ncaab,NO,NONE,fgcu.gif,college/basketball/fgcu.gif,DONE
+TEAM,FL Atlantic,FL Atlantic,BASKETBALL,NCAAB,NCAA Basketball,ncaab,NO,NONE,fl-atlantic.gif,college/basketball/fl-atlantic.gif,DONE
+TEAM,Florida,Florida,BASKETBALL,NCAAB,NCAA Basketball,ncaab,NO,NONE,florida.gif,college/basketball/florida.gif,DONE
+TEAM,Florida A&M,Florida A&M,BASKETBALL,NCAAB,NCAA Basketball,ncaab,NO,NONE,florida-am.gif,college/basketball/florida-am.gif,DONE
+TEAM,Florida Int.,Florida Int.,BASKETBALL,NCAAB,NCAA Basketball,ncaab,YES,college/colleges/florida-int..gif,florida-int.gif,college/basketball/florida-int.gif,✅ Logo exists
+TEAM,Florida St,Florida St,BASKETBALL,NCAAB,NCAA Basketball,ncaab,NO,NONE,florida-st.gif,college/basketball/florida-st.gif,DONE
+TEAM,Fresno St.,Fresno St.,BASKETBALL,NCAAB,NCAA Basketball,ncaab,NO,NONE,fresno-st.gif,college/basketball/fresno-st.gif,DONE
+TEAM,G. Washington,G. Washington,BASKETBALL,NCAAB,NCAA Basketball,ncaab,NO,NONE,g-washington.gif,college/basketball/g-washington.gif,DONE
+TEAM,George Mason,George Mason,BASKETBALL,NCAAB,NCAA Basketball,ncaab,NO,NONE,george-mason.gif,college/basketball/george-mason.gif,DONE
+TEAM,Georgetown,Georgetown,BASKETBALL,NCAAB,NCAA Basketball,ncaab,NO,NONE,georgetown.gif,college/basketball/georgetown.gif,DONE
+TEAM,Georgia Bulldogs,Georgia Bulldogs,BASKETBALL,NCAAB,NCAA Basketball,ncaab,YES,college/colleges/georgia-bulldogs.gif,georgia-bulldogs.gif,college/basketball/georgia-bulldogs.gif,✅ Logo exists
+TEAM,Georgia Southern,Georgia Southern,BASKETBALL,NCAAB,NCAA Basketball,ncaab,NO,NONE,georgia-southern.gif,college/basketball/georgia-southern.gif,DONE
+TEAM,Georgia St.,Georgia St.,BASKETBALL,NCAAB,NCAA Basketball,ncaab,NO,NONE,georgia-st.gif,college/basketball/georgia-st.gif,DONE
+TEAM,Georgia Tech,Georgia Tech,BASKETBALL,NCAAB,NCAA Basketball,ncaab,NO,NONE,georgia-tech.gif,college/basketball/georgia-tech.gif,DONE
+TEAM,Gonzaga,Gonzaga,BASKETBALL,NCAAB,NCAA Basketball,ncaab,NO,NONE,gonzaga.gif,college/basketball/gonzaga.gif,DONE
+TEAM,Gr. Canyon,Gr. Canyon,BASKETBALL,NCAAB,NCAA Basketball,ncaab,NO,NONE,gr-canyon.gif,college/basketball/gr-canyon.gif,DONE
+TEAM,Hampton,Hampton,BASKETBALL,NCAAB,NCAA Basketball,ncaab,NO,NONE,hampton.gif,college/basketball/hampton.gif,DONE
+TEAM,Harvard,Harvard,BASKETBALL,NCAAB,NCAA Basketball,ncaab,NO,NONE,harvard.gif,college/basketball/harvard.gif,DONE
+TEAM,Hawaii,Hawaii,BASKETBALL,NCAAB,NCAA Basketball,ncaab,NO,NONE,hawaii.gif,college/basketball/hawaii.gif,DONE
+TEAM,High Point,High Point,BASKETBALL,NCAAB,NCAA Basketball,ncaab,NO,NONE,high-point.gif,college/basketball/high-point.gif,DONE
+TEAM,Hofstra,Hofstra,BASKETBALL,NCAAB,NCAA Basketball,ncaab,NO,NONE,hofstra.gif,college/basketball/hofstra.gif,DONE
+TEAM,Holy Cross,Holy Cross,BASKETBALL,NCAAB,NCAA Basketball,ncaab,NO,NONE,holy-cross.gif,college/basketball/holy-cross.gif,DONE
+TEAM,Houston,Houston,BASKETBALL,NCAAB,NCAA Basketball,ncaab,NO,NONE,houston.gif,college/basketball/houston.gif,DONE
+TEAM,Houston Baptist,Houston Baptist,BASKETBALL,NCAAB,NCAA Basketball,ncaab,NO,NONE,houston-baptist.gif,college/basketball/houston-baptist.gif,DONE
+TEAM,Howard,Howard,BASKETBALL,NCAAB,NCAA Basketball,ncaab,NO,NONE,howard.gif,college/basketball/howard.gif,DONE
+TEAM,Idaho,Idaho,BASKETBALL,NCAAB,NCAA Basketball,ncaab,NO,NONE,idaho.gif,college/basketball/idaho.gif,DONE
+TEAM,Idaho State,Idaho State,BASKETBALL,NCAAB,NCAA Basketball,ncaab,NO,NONE,idaho-state.gif,college/basketball/idaho-state.gif,DONE
+TEAM,Illinois,Illinois,BASKETBALL,NCAAB,NCAA Basketball,ncaab,NO,NONE,illinois.gif,college/basketball/illinois.gif,DONE
+TEAM,Illinois State,Illinois State,BASKETBALL,NCAAB,NCAA Basketball,ncaab,NO,NONE,illinois-state.gif,college/basketball/illinois-state.gif,DONE
+TEAM,Incarnate Word,Incarnate Word,BASKETBALL,NCAAB,NCAA Basketball,ncaab,NO,NONE,incarnate-word.gif,college/basketball/incarnate-word.gif,DONE
+TEAM,Indiana,Indiana,BASKETBALL,NCAAB,NCAA Basketball,ncaab,NO,NONE,indiana.gif,college/basketball/indiana.gif,DONE
+TEAM,Indiana State,Indiana State,BASKETBALL,NCAAB,NCAA Basketball,ncaab,NO,NONE,indiana-state.gif,college/basketball/indiana-state.gif,DONE
+TEAM,Iona,Iona,BASKETBALL,NCAAB,NCAA Basketball,ncaab,NO,NONE,iona.gif,college/basketball/iona.gif,DONE
+TEAM,Iowa State,Iowa State,BASKETBALL,NCAAB,NCAA Basketball,ncaab,NO,NONE,iowa-state.gif,college/basketball/iowa-state.gif,DONE
+TEAM,IPFW,IPFW,BASKETBALL,NCAAB,NCAA Basketball,ncaab,NO,NONE,ipfw.gif,college/basketball/ipfw.gif,DONE
+TEAM,IUPUI,IUPUI,BASKETBALL,NCAAB,NCAA Basketball,ncaab,NO,NONE,iupui.gif,college/basketball/iupui.gif,No Match Found
+TEAM,Jackson State,Jackson State,BASKETBALL,NCAAB,NCAA Basketball,ncaab,NO,NONE,jackson-state.gif,college/basketball/jackson-state.gif,DONE
+TEAM,Jacksonville,Jacksonville,BASKETBALL,NCAAB,NCAA Basketball,ncaab,YES,college/colleges/jacksonville.gif,jacksonville.gif,college/basketball/jacksonville.gif,✅ Logo exists
+TEAM,James Madison,James Madison,BASKETBALL,NCAAB,NCAA Basketball,ncaab,NO,NONE,james-madison.gif,college/basketball/james-madison.gif,DONE
+TEAM,JSU,JSU,BASKETBALL,NCAAB,NCAA Basketball,ncaab,NO,NONE,jsu.gif,college/basketball/jsu.gif,❌ MISSING
+TEAM,Kansas,Kansas,BASKETBALL,NCAAB,NCAA Basketball,ncaab,NO,NONE,kansas.gif,college/basketball/kansas.gif,DONE
+TEAM,Kansas St,Kansas St,BASKETBALL,NCAAB,NCAA Basketball,ncaab,NO,NONE,kansas-st.gif,college/basketball/kansas-st.gif,DONE
+TEAM,Kennesaw St.,Kennesaw St.,BASKETBALL,NCAAB,NCAA Basketball,ncaab,NO,NONE,kennesaw-st.gif,college/basketball/kennesaw-st.gif,DONE
+TEAM,Kent St.,Kent St.,BASKETBALL,NCAAB,NCAA Basketball,ncaab,NO,NONE,kent-st.gif,college/basketball/kent-st.gif,DONE
+TEAM,Kentucky,Kentucky,BASKETBALL,NCAAB,NCAA Basketball,ncaab,NO,NONE,kentucky.gif,college/basketball/kentucky.gif,DONE
+TEAM,Lafayette,Lafayette,BASKETBALL,NCAAB,NCAA Basketball,ncaab,YES,college/colleges/lafayette.gif,lafayette.gif,college/basketball/lafayette.gif,✅ Logo exists
+TEAM,Lamar,Lamar,BASKETBALL,NCAAB,NCAA Basketball,ncaab,NO,NONE,lamar.gif,college/basketball/lamar.gif,DONE
+TEAM,Le Moyne,Le Moyne,BASKETBALL,NCAAB,NCAA Basketball,ncaab,NO,NONE,le-moyne.gif,college/basketball/le-moyne.gif,DONE
+TEAM,Lehigh Mountain,Lehigh Mountain,BASKETBALL,NCAAB,NCAA Basketball,ncaab,NO,NONE,lehigh-mountain.gif,college/basketball/lehigh-mountain.gif,DONE
+TEAM,Liberty,Liberty,BASKETBALL,NCAAB,NCAA Basketball,ncaab,NO,NONE,liberty.gif,college/basketball/liberty.gif,DONE
+TEAM,Lindenwood Lions,Lindenwood Lions,BASKETBALL,NCAAB,NCAA Basketball,ncaab,NO,NONE,lindenwood-lions.gif,college/basketball/lindenwood-lions.gif,DONE
+TEAM,Lipscomb,Lipscomb,BASKETBALL,NCAAB,NCAA Basketball,ncaab,NO,NONE,lipscomb.gif,college/basketball/lipscomb.gif,DONE
+TEAM,Long Beach,Long Beach,BASKETBALL,NCAAB,NCAA Basketball,ncaab,NO,NONE,long-beach.gif,college/basketball/long-beach.gif,DONE
+TEAM,Longwood,Longwood,BASKETBALL,NCAAB,NCAA Basketball,ncaab,NO,NONE,longwood.gif,college/basketball/longwood.gif,DONE
+TEAM,Louisiana Tech,Louisiana Tech,BASKETBALL,NCAAB,NCAA Basketball,ncaab,NO,NONE,louisiana-tech.gif,college/basketball/louisiana-tech.gif,DONE
+TEAM,Louisville,Louisville,BASKETBALL,NCAAB,NCAA Basketball,ncaab,NO,NONE,louisville.gif,college/basketball/louisville.gif,DONE
+TEAM,Loyola Chicago,Loyola Chicago,BASKETBALL,NCAAB,NCAA Basketball,ncaab,NO,NONE,loyola-chicago.gif,college/basketball/loyola-chicago.gif,DONE
+TEAM,Loyola Maryland,Loyola Maryland,BASKETBALL,NCAAB,NCAA Basketball,ncaab,NO,NONE,loyola-maryland.gif,college/basketball/loyola-maryland.gif,DONE
+TEAM,LSU,LSU,BASKETBALL,NCAAB,NCAA Basketball,ncaab,NO,NONE,lsu.gif,college/basketball/lsu.gif,DONE
+TEAM,Manhattan,Manhattan,BASKETBALL,NCAAB,NCAA Basketball,ncaab,NO,NONE,manhattan.gif,college/basketball/manhattan.gif,DONE
+TEAM,Marist,Marist,BASKETBALL,NCAAB,NCAA Basketball,ncaab,NO,NONE,marist.gif,college/basketball/marist.gif,DONE
+TEAM,Marquette,Marquette,BASKETBALL,NCAAB,NCAA Basketball,ncaab,NO,NONE,marquette.gif,college/basketball/marquette.gif,DONE
+TEAM,Maryland,Maryland,BASKETBALL,NCAAB,NCAA Basketball,ncaab,NO,NONE,maryland.gif,college/basketball/maryland.gif,DONE
+TEAM,Maryland Baltimore,Maryland Baltimore,BASKETBALL,NCAAB,NCAA Basketball,ncaab,NO,NONE,maryland-baltimore.gif,college/basketball/maryland-baltimore.gif,No Match Found
+TEAM,McNeese St.,McNeese St.,BASKETBALL,NCAAB,NCAA Basketball,ncaab,NO,NONE,mcneese-st.gif,college/basketball/mcneese-st.gif,DONE
+TEAM,Memphis,Memphis,BASKETBALL,NCAAB,NCAA Basketball,ncaab,NO,NONE,memphis.gif,college/basketball/memphis.gif,DONE
+TEAM,Mercer,Mercer,BASKETBALL,NCAAB,NCAA Basketball,ncaab,NO,NONE,mercer.gif,college/basketball/mercer.gif,DONE
+TEAM,Miami,Miami,BASKETBALL,NCAAB,NCAA Basketball,ncaab,NO,NONE,miami.gif,college/basketball/miami.gif,DONE
+TEAM,Michigan,Michigan,BASKETBALL,NCAAB,NCAA Basketball,ncaab,NO,NONE,michigan.gif,college/basketball/michigan.gif,DONE
+TEAM,Michigan State,Michigan State,BASKETBALL,NCAAB,NCAA Basketball,ncaab,NO,NONE,michigan-state.gif,college/basketball/michigan-state.gif,DONE
+TEAM,Middle Tennessee St.,Middle Tennessee St.,BASKETBALL,NCAAB,NCAA Basketball,ncaab,NO,NONE,middle-tennessee-st.gif,college/basketball/middle-tennessee-st.gif,DONE
+TEAM,Minnesota,Minnesota,BASKETBALL,NCAAB,NCAA Basketball,ncaab,NO,NONE,minnesota.gif,college/basketball/minnesota.gif,DONE
+TEAM,Mississippi State,Mississippi State,BASKETBALL,NCAAB,NCAA Basketball,ncaab,NO,NONE,mississippi-state.gif,college/basketball/mississippi-state.gif,DONE
+TEAM,Missouri,Missouri,BASKETBALL,NCAAB,NCAA Basketball,ncaab,NO,NONE,missouri.gif,college/basketball/missouri.gif,DONE
+TEAM,Missouri St.,Missouri St.,BASKETBALL,NCAAB,NCAA Basketball,ncaab,NO,NONE,missouri-st.gif,college/basketball/missouri-st.gif,DONE
+TEAM,Monmouth,Monmouth,BASKETBALL,NCAAB,NCAA Basketball,ncaab,NO,NONE,monmouth.gif,college/basketball/monmouth.gif,DONE
+TEAM,Montana,Montana,BASKETBALL,NCAAB,NCAA Basketball,ncaab,NO,NONE,montana.gif,college/basketball/montana.gif,DONE
+TEAM,Montana St.,Montana St.,BASKETBALL,NCAAB,NCAA Basketball,ncaab,NO,NONE,montana-st.gif,college/basketball/montana-st.gif,DONE
+TEAM,Morehead St.,Morehead St.,BASKETBALL,NCAAB,NCAA Basketball,ncaab,NO,NONE,morehead-st.gif,college/basketball/morehead-st.gif,DONE
+TEAM,Morgan State,Morgan State,BASKETBALL,NCAAB,NCAA Basketball,ncaab,NO,NONE,morgan-state.gif,college/basketball/morgan-state.gif,DONE
+TEAM,Mount St Mary's,Mount St Mary's,BASKETBALL,NCAAB,NCAA Basketball,ncaab,NO,NONE,mount-st-marys.gif,college/basketball/mount-st-marys.gif,DONE
+TEAM,Murray St.,Murray St.,BASKETBALL,NCAAB,NCAA Basketball,ncaab,NO,NONE,murray-st.gif,college/basketball/murray-st.gif,DONE
+TEAM,Navy,Navy,BASKETBALL,NCAAB,NCAA Basketball,ncaab,NO,NONE,navy.gif,college/basketball/navy.gif,DONE
+TEAM,NC State,NC State,BASKETBALL,NCAAB,NCAA Basketball,ncaab,NO,NONE,nc-state.gif,college/basketball/nc-state.gif,DONE
+TEAM,Nebraska,Nebraska,BASKETBALL,NCAAB,NCAA Basketball,ncaab,NO,NONE,nebraska.gif,college/basketball/nebraska.gif,DONE
+TEAM,Nebraska-Omaha,Nebraska-Omaha,BASKETBALL,NCAAB,NCAA Basketball,ncaab,NO,NONE,nebraska-omaha.gif,college/basketball/nebraska-omaha.gif,DONE
+TEAM,Nevada,Nevada,BASKETBALL,NCAAB,NCAA Basketball,ncaab,NO,NONE,nevada.gif,college/basketball/nevada.gif,DONE
+TEAM,New Hampshire,New Hampshire,BASKETBALL,NCAAB,NCAA Basketball,ncaab,NO,NONE,new-hampshire.gif,college/basketball/new-hampshire.gif,DONE
+TEAM,New Mexico,New Mexico,BASKETBALL,NCAAB,NCAA Basketball,ncaab,NO,NONE,new-mexico.gif,college/basketball/new-mexico.gif,DONE
+TEAM,New Mexico St,New Mexico St,BASKETBALL,NCAAB,NCAA Basketball,ncaab,NO,NONE,new-mexico-st.gif,college/basketball/new-mexico-st.gif,DONE
+TEAM,New Orleans,New Orleans,BASKETBALL,NCAAB,NCAA Basketball,ncaab,NO,NONE,new-orleans.gif,college/basketball/new-orleans.gif,DONE
+TEAM,Niagara,Niagara,BASKETBALL,NCAAB,NCAA Basketball,ncaab,NO,NONE,niagara.gif,college/basketball/niagara.gif,DONE
+TEAM,Nicholls St.,Nicholls St.,BASKETBALL,NCAAB,NCAA Basketball,ncaab,NO,NONE,nicholls-st.gif,college/basketball/nicholls-st.gif,DONE
+TEAM,Norfolk St.,Norfolk St.,BASKETBALL,NCAAB,NCAA Basketball,ncaab,NO,NONE,norfolk-st.gif,college/basketball/norfolk-st.gif,DONE
+TEAM,North Carolina,North Carolina,BASKETBALL,NCAAB,NCAA Basketball,ncaab,NO,NONE,north-carolina.gif,college/basketball/north-carolina.gif,DONE
+TEAM,North Dakota,North Dakota,BASKETBALL,NCAAB,NCAA Basketball,ncaab,NO,NONE,north-dakota.gif,college/basketball/north-dakota.gif,DONE
+TEAM,North Dakota State,North Dakota State,BASKETBALL,NCAAB,NCAA Basketball,ncaab,NO,NONE,north-dakota-state.gif,college/basketball/north-dakota-state.gif,DONE
+TEAM,North Florida,North Florida,BASKETBALL,NCAAB,NCAA Basketball,ncaab,NO,NONE,north-florida.gif,college/basketball/north-florida.gif,DONE
+TEAM,North Texas,North Texas,BASKETBALL,NCAAB,NCAA Basketball,ncaab,NO,NONE,north-texas.gif,college/basketball/north-texas.gif,DONE
+TEAM,Northeastern,Northeastern,BASKETBALL,NCAAB,NCAA Basketball,ncaab,NO,NONE,northeastern.gif,college/basketball/northeastern.gif,DONE
+TEAM,Northern Arizona,Northern Arizona,BASKETBALL,NCAAB,NCAA Basketball,ncaab,YES,college/colleges/northern-arizona.gif,northern-arizona.gif,college/basketball/northern-arizona.gif,✅ Logo exists
+TEAM,Northern Colorado,Northern Colorado,BASKETBALL,NCAAB,NCAA Basketball,ncaab,NO,NONE,northern-colorado.gif,college/basketball/northern-colorado.gif,DONE
+TEAM,Northern Illinois,Northern Illinois,BASKETBALL,NCAAB,NCAA Basketball,ncaab,NO,NONE,northern-illinois.gif,college/basketball/northern-illinois.gif,DONE
+TEAM,Northern Iowa,Northern Iowa,BASKETBALL,NCAAB,NCAA Basketball,ncaab,NO,NONE,northern-iowa.gif,college/basketball/northern-iowa.gif,DONE
+TEAM,Notre Dame,Notre Dame,BASKETBALL,NCAAB,NCAA Basketball,ncaab,NO,NONE,notre-dame.gif,college/basketball/notre-dame.gif,DONE
+TEAM,NW Wildcats,NW Wildcats,BASKETBALL,NCAAB,NCAA Basketball,ncaab,NO,NONE,nw-wildcats.gif,college/basketball/nw-wildcats.gif,DONE
+TEAM,Oakland,Oakland,BASKETBALL,NCAAB,NCAA Basketball,ncaab,NO,NONE,oakland.gif,college/basketball/oakland.gif,DONE
+TEAM,Ohio,Ohio,BASKETBALL,NCAAB,NCAA Basketball,ncaab,NO,NONE,ohio.gif,college/basketball/ohio.gif,DONE
+TEAM,Ohio State,Ohio State,BASKETBALL,NCAAB,NCAA Basketball,ncaab,NO,NONE,ohio-state.gif,college/basketball/ohio-state.gif,DONE
+TEAM,Oklahoma,Oklahoma,BASKETBALL,NCAAB,NCAA Basketball,ncaab,NO,NONE,oklahoma.gif,college/basketball/oklahoma.gif,DONE
+TEAM,Oklahoma State,Oklahoma State,BASKETBALL,NCAAB,NCAA Basketball,ncaab,NO,NONE,oklahoma-state.gif,college/basketball/oklahoma-state.gif,DONE
+TEAM,Ole Miss,Ole Miss,BASKETBALL,NCAAB,NCAA Basketball,ncaab,NO,NONE,ole-miss.gif,college/basketball/ole-miss.gif,DONE
+TEAM,Oral Roberts,Oral Roberts,BASKETBALL,NCAAB,NCAA Basketball,ncaab,NO,NONE,oral-roberts.gif,college/basketball/oral-roberts.gif,DONE
+TEAM,Oregon,Oregon,BASKETBALL,NCAAB,NCAA Basketball,ncaab,NO,NONE,oregon.gif,college/basketball/oregon.gif,DONE
+TEAM,Pacific,Pacific,BASKETBALL,NCAAB,NCAA Basketball,ncaab,NO,NONE,pacific.gif,college/basketball/pacific.gif,DONE
+TEAM,Penn State,Penn State,BASKETBALL,NCAAB,NCAA Basketball,ncaab,NO,NONE,penn-state.gif,college/basketball/penn-state.gif,DONE
+TEAM,Pennsylvania,Pennsylvania,BASKETBALL,NCAAB,NCAA Basketball,ncaab,NO,NONE,pennsylvania.gif,college/basketball/pennsylvania.gif,DONE
+TEAM,Pepperdine,Pepperdine,BASKETBALL,NCAAB,NCAA Basketball,ncaab,NO,NONE,pepperdine.gif,college/basketball/pepperdine.gif,DONE
+TEAM,Pittsburgh,Pittsburgh,BASKETBALL,NCAAB,NCAA Basketball,ncaab,NO,NONE,pittsburgh.gif,college/basketball/pittsburgh.gif,Low Confidence: 0.6
+TEAM,Portland State,Portland State,BASKETBALL,NCAAB,NCAA Basketball,ncaab,NO,NONE,portland-state.gif,college/basketball/portland-state.gif,DONE
+TEAM,Prairie View A&M,Prairie View A&M,BASKETBALL,NCAAB,NCAA Basketball,ncaab,NO,NONE,prairie-view-am.gif,college/basketball/prairie-view-am.gif,DONE
+TEAM,Presbyterian,Presbyterian,BASKETBALL,NCAAB,NCAA Basketball,ncaab,NO,NONE,presbyterian.gif,college/basketball/presbyterian.gif,DONE
+TEAM,Princeton,Princeton,BASKETBALL,NCAAB,NCAA Basketball,ncaab,NO,NONE,princeton.gif,college/basketball/princeton.gif,DONE
+TEAM,Providence,Providence,BASKETBALL,NCAAB,NCAA Basketball,ncaab,NO,NONE,providence.gif,college/basketball/providence.gif,DONE
+TEAM,Purdue,Purdue,BASKETBALL,NCAAB,NCAA Basketball,ncaab,NO,NONE,purdue.gif,college/basketball/purdue.gif,DONE
+TEAM,Quinnipiac,Quinnipiac,BASKETBALL,NCAAB,NCAA Basketball,ncaab,NO,NONE,quinnipiac.gif,college/basketball/quinnipiac.gif,DONE
+TEAM,Radford,Radford,BASKETBALL,NCAAB,NCAA Basketball,ncaab,NO,NONE,radford.gif,college/basketball/radford.gif,DONE
+TEAM,Rhode Island,Rhode Island,BASKETBALL,NCAAB,NCAA Basketball,ncaab,NO,NONE,rhode-island.gif,college/basketball/rhode-island.gif,DONE
+TEAM,Rice,Rice,BASKETBALL,NCAAB,NCAA Basketball,ncaab,NO,NONE,rice.gif,college/basketball/rice.gif,DONE
+TEAM,Richmond,Richmond,BASKETBALL,NCAAB,NCAA Basketball,ncaab,NO,NONE,richmond.gif,college/basketball/richmond.gif,DONE
+TEAM,Rider,Rider,BASKETBALL,NCAAB,NCAA Basketball,ncaab,NO,NONE,rider.gif,college/basketball/rider.gif,DONE
+TEAM,Rutgers,Rutgers,BASKETBALL,NCAAB,NCAA Basketball,ncaab,NO,NONE,rutgers.gif,college/basketball/rutgers.gif,DONE
+TEAM,Sacramento State,Sacramento State,BASKETBALL,NCAAB,NCAA Basketball,ncaab,NO,NONE,sacramento-state.gif,college/basketball/sacramento-state.gif,DONE
+TEAM,Sacred Heart,Sacred Heart,BASKETBALL,NCAAB,NCAA Basketball,ncaab,NO,NONE,sacred-heart.gif,college/basketball/sacred-heart.gif,DONE
+TEAM,Saint Louis,Saint Louis,BASKETBALL,NCAAB,NCAA Basketball,ncaab,NO,NONE,saint-louis.gif,college/basketball/saint-louis.gif,DONE
+TEAM,Sam Houston St.,Sam Houston St.,BASKETBALL,NCAAB,NCAA Basketball,ncaab,NO,NONE,sam-houston-st.gif,college/basketball/sam-houston-st.gif,DONE
+TEAM,Samford,Samford,BASKETBALL,NCAAB,NCAA Basketball,ncaab,NO,NONE,samford.gif,college/basketball/samford.gif,DONE
+TEAM,San Diego St,San Diego St,BASKETBALL,NCAAB,NCAA Basketball,ncaab,NO,NONE,san-diego-st.gif,college/basketball/san-diego-st.gif,DONE
+TEAM,San Francisco,San Francisco,BASKETBALL,NCAAB,NCAA Basketball,ncaab,NO,NONE,san-francisco.gif,college/basketball/san-francisco.gif,DONE
+TEAM,San Jose,San Jose,BASKETBALL,NCAAB,NCAA Basketball,ncaab,NO,NONE,san-jose.gif,college/basketball/san-jose.gif,DONE
+TEAM,Seattle,Seattle,BASKETBALL,NCAAB,NCAA Basketball,ncaab,NO,NONE,seattle.gif,college/basketball/seattle.gif,DONE
+TEAM,Seton Hall,Seton Hall,BASKETBALL,NCAAB,NCAA Basketball,ncaab,NO,NONE,seton-hall.gif,college/basketball/seton-hall.gif,DONE
+TEAM,SFA Lumberjacks,SFA Lumberjacks,BASKETBALL,NCAAB,NCAA Basketball,ncaab,NO,NONE,sfa-lumberjacks.gif,college/basketball/sfa-lumberjacks.gif,DONE
+TEAM,Siena,Siena,BASKETBALL,NCAAB,NCAA Basketball,ncaab,NO,NONE,siena.gif,college/basketball/siena.gif,DONE
+TEAM,SIU Edwardsville,SIU Edwardsville,BASKETBALL,NCAAB,NCAA Basketball,ncaab,NO,NONE,siu-edwardsville.gif,college/basketball/siu-edwardsville.gif,DONE
+TEAM,South Alabama,South Alabama,BASKETBALL,NCAAB,NCAA Basketball,ncaab,NO,NONE,south-alabama.gif,college/basketball/south-alabama.gif,DONE
+TEAM,South Carolina,South Carolina,BASKETBALL,NCAAB,NCAA Basketball,ncaab,NO,NONE,south-carolina.gif,college/basketball/south-carolina.gif,DONE
+TEAM,South Florida,South Florida,BASKETBALL,NCAAB,NCAA Basketball,ncaab,NO,NONE,south-florida.gif,college/basketball/south-florida.gif,DONE
+TEAM,South. Methodist,South. Methodist,BASKETBALL,NCAAB,NCAA Basketball,ncaab,NO,NONE,south-methodist.gif,college/basketball/south-methodist.gif,DONE
+TEAM,Southern Illinois,Southern Illinois,BASKETBALL,NCAAB,NCAA Basketball,ncaab,NO,NONE,southern-illinois.gif,college/basketball/southern-illinois.gif,DONE
+TEAM,Southern Mississippi,Southern Mississippi,BASKETBALL,NCAAB,NCAA Basketball,ncaab,NO,NONE,southern-mississippi.gif,college/basketball/southern-mississippi.gif,DONE
+TEAM,Southern Univ.,Southern Univ.,BASKETBALL,NCAAB,NCAA Basketball,ncaab,NO,NONE,southern-univ.gif,college/basketball/southern-univ.gif,DONE
+TEAM,Southern Utah,Southern Utah,BASKETBALL,NCAAB,NCAA Basketball,ncaab,NO,NONE,southern-utah.gif,college/basketball/southern-utah.gif,DONE
+TEAM,St. Bonaventure,St. Bonaventure,BASKETBALL,NCAAB,NCAA Basketball,ncaab,NO,NONE,st-bonaventure.gif,college/basketball/st-bonaventure.gif,DONE
+TEAM,St. Francis (PA),St. Francis (PA),BASKETBALL,NCAAB,NCAA Basketball,ncaab,YES,college/colleges/st.-francis-pa.gif,st-francis-pa.gif,college/basketball/st-francis-pa.gif,✅ Logo exists
+TEAM,St. John's,St. John's,BASKETBALL,NCAAB,NCAA Basketball,ncaab,NO,NONE,st-johns.gif,college/basketball/st-johns.gif,DONE
+TEAM,Stanford,Stanford,BASKETBALL,NCAAB,NCAA Basketball,ncaab,NO,NONE,stanford.gif,college/basketball/stanford.gif,DONE
+TEAM,Stetson,Stetson,BASKETBALL,NCAAB,NCAA Basketball,ncaab,NO,NONE,stetson.gif,college/basketball/stetson.gif,DONE
+TEAM,Stonehill,Stonehill,BASKETBALL,NCAAB,NCAA Basketball,ncaab,NO,NONE,stonehill.gif,college/basketball/stonehill.gif,DONE
+TEAM,Stony Brook,Stony Brook,BASKETBALL,NCAAB,NCAA Basketball,ncaab,NO,NONE,stony-brook.gif,college/basketball/stony-brook.gif,DONE
+TEAM,Syracuse,Syracuse,BASKETBALL,NCAAB,NCAA Basketball,ncaab,NO,NONE,syracuse.gif,college/basketball/syracuse.gif,DONE
+TEAM,Tarleton St.,Tarleton St.,BASKETBALL,NCAAB,NCAA Basketball,ncaab,NO,NONE,tarleton-st.gif,college/basketball/tarleton-st.gif,DONE
+TEAM,TCU,TCU,BASKETBALL,NCAAB,NCAA Basketball,ncaab,NO,NONE,tcu.gif,college/basketball/tcu.gif,DONE
+TEAM,Tennessee,Tennessee,BASKETBALL,NCAAB,NCAA Basketball,ncaab,NO,NONE,tennessee.gif,college/basketball/tennessee.gif,DONE
+TEAM,Tennessee Tech,Tennessee Tech,BASKETBALL,NCAAB,NCAA Basketball,ncaab,NO,NONE,tennessee-tech.gif,college/basketball/tennessee-tech.gif,DONE
+TEAM,Texas,Texas,BASKETBALL,NCAAB,NCAA Basketball,ncaab,NO,NONE,texas.gif,college/basketball/texas.gif,DONE
+TEAM,Texas A&M,Texas A&M,BASKETBALL,NCAAB,NCAA Basketball,ncaab,NO,NONE,texas-am.gif,college/basketball/texas-am.gif,DONE
+TEAM,Texas A&M-CC,Texas A&M-CC,BASKETBALL,NCAAB,NCAA Basketball,ncaab,NO,NONE,texas-am-cc.gif,college/basketball/texas-am-cc.gif,DONE
+TEAM,Texas State,Texas State,BASKETBALL,NCAAB,NCAA Basketball,ncaab,NO,NONE,texas-state.gif,college/basketball/texas-state.gif,DONE
+TEAM,Texas Tech,Texas Tech,BASKETBALL,NCAAB,NCAA Basketball,ncaab,NO,NONE,texas-tech.gif,college/basketball/texas-tech.gif,DONE
+TEAM,Toledo,Toledo,BASKETBALL,NCAAB,NCAA Basketball,ncaab,NO,NONE,toledo.gif,college/basketball/toledo.gif,DONE
+TEAM,Towson,Towson,BASKETBALL,NCAAB,NCAA Basketball,ncaab,NO,NONE,towson.gif,college/basketball/towson.gif,DONE
+TEAM,Troy,Troy,BASKETBALL,NCAAB,NCAA Basketball,ncaab,NO,NONE,troy.gif,college/basketball/troy.gif,DONE
+TEAM,Tulane,Tulane,BASKETBALL,NCAAB,NCAA Basketball,ncaab,NO,NONE,tulane.gif,college/basketball/tulane.gif,DONE
+TEAM,Tulsa,Tulsa,BASKETBALL,NCAAB,NCAA Basketball,ncaab,NO,NONE,tulsa.gif,college/basketball/tulsa.gif,DONE
+TEAM,TX Southern,TX Southern,BASKETBALL,NCAAB,NCAA Basketball,ncaab,NO,NONE,tx-southern.gif,college/basketball/tx-southern.gif,DONE
+TEAM,UAB,UAB,BASKETBALL,NCAAB,NCAA Basketball,ncaab,NO,NONE,uab.gif,college/basketball/uab.gif,DONE
+TEAM,UC Davis,UC Davis,BASKETBALL,NCAAB,NCAA Basketball,ncaab,NO,NONE,uc-davis.gif,college/basketball/uc-davis.gif,DONE
+TEAM,UC Irvine,UC Irvine,BASKETBALL,NCAAB,NCAA Basketball,ncaab,NO,NONE,uc-irvine.gif,college/basketball/uc-irvine.gif,DONE
+TEAM,UC Riverside,UC Riverside,BASKETBALL,NCAAB,NCAA Basketball,ncaab,NO,NONE,uc-riverside.gif,college/basketball/uc-riverside.gif,DONE
+TEAM,UC San Diego,UC San Diego,BASKETBALL,NCAAB,NCAA Basketball,ncaab,NO,NONE,uc-san-diego.gif,college/basketball/uc-san-diego.gif,DONE
+TEAM,UC Santa Barbara,UC Santa Barbara,BASKETBALL,NCAAB,NCAA Basketball,ncaab,NO,NONE,uc-santa-barbara.gif,college/basketball/uc-santa-barbara.gif,DONE
+TEAM,UCF,UCF,BASKETBALL,NCAAB,NCAA Basketball,ncaab,NO,NONE,ucf.gif,college/basketball/ucf.gif,DONE
+TEAM,UCLA,UCLA,BASKETBALL,NCAAB,NCAA Basketball,ncaab,NO,NONE,ucla.gif,college/basketball/ucla.gif,DONE
+TEAM,UConn,UConn,BASKETBALL,NCAAB,NCAA Basketball,ncaab,NO,NONE,uconn.gif,college/basketball/uconn.gif,DONE
+TEAM,UMass,UMass,BASKETBALL,NCAAB,NCAA Basketball,ncaab,NO,NONE,umass.gif,college/basketball/umass.gif,DONE
+TEAM,UMass Lowell,UMass Lowell,BASKETBALL,NCAAB,NCAA Basketball,ncaab,NO,NONE,umass-lowell.gif,college/basketball/umass-lowell.gif,Low Confidence: 0.6
+TEAM,UMKC,UMKC,BASKETBALL,NCAAB,NCAA Basketball,ncaab,NO,NONE,umkc.gif,college/basketball/umkc.gif,DONE
+TEAM,UNC Wilmington,UNC Wilmington,BASKETBALL,NCAAB,NCAA Basketball,ncaab,NO,NONE,unc-wilmington.gif,college/basketball/unc-wilmington.gif,DONE
+TEAM,UNLV,UNLV,BASKETBALL,NCAAB,NCAA Basketball,ncaab,NO,NONE,unlv.gif,college/basketball/unlv.gif,DONE
+TEAM,USC,USC,BASKETBALL,NCAAB,NCAA Basketball,ncaab,NO,NONE,usc.gif,college/basketball/usc.gif,DONE
+TEAM,USI,USI,BASKETBALL,NCAAB,NCAA Basketball,ncaab,NO,NONE,usi.gif,college/basketball/usi.gif,Low Confidence: 0.8
+TEAM,Utah State,Utah State,BASKETBALL,NCAAB,NCAA Basketball,ncaab,NO,NONE,utah-state.gif,college/basketball/utah-state.gif,DONE
+TEAM,Utah Tech,Utah Tech,BASKETBALL,NCAAB,NCAA Basketball,ncaab,NO,NONE,utah-tech.gif,college/basketball/utah-tech.gif,DONE
+TEAM,Utah Utes,Utah Utes,BASKETBALL,NCAAB,NCAA Basketball,ncaab,YES,college/colleges/utah-utes.gif,utah-utes.gif,college/basketball/utah-utes.gif,✅ Logo exists
+TEAM,Utah Valley St.,Utah Valley St.,BASKETBALL,NCAAB,NCAA Basketball,ncaab,NO,NONE,utah-valley-st.gif,college/basketball/utah-valley-st.gif,DONE
+TEAM,UTEP,UTEP,BASKETBALL,NCAAB,NCAA Basketball,ncaab,NO,NONE,utep.gif,college/basketball/utep.gif,DONE
+TEAM,Vanderbilt,Vanderbilt,BASKETBALL,NCAAB,NCAA Basketball,ncaab,NO,NONE,vanderbilt.gif,college/basketball/vanderbilt.gif,DONE
+TEAM,VCU,VCU,BASKETBALL,NCAAB,NCAA Basketball,ncaab,NO,NONE,vcu.gif,college/basketball/vcu.gif,DONE
+TEAM,Vermont,Vermont,BASKETBALL,NCAAB,NCAA Basketball,ncaab,NO,NONE,vermont.gif,college/basketball/vermont.gif,DONE
+TEAM,Villanova,Villanova,BASKETBALL,NCAAB,NCAA Basketball,ncaab,NO,NONE,villanova.gif,college/basketball/villanova.gif,DONE
+TEAM,Virginia,Virginia,BASKETBALL,NCAAB,NCAA Basketball,ncaab,NO,NONE,virginia.gif,college/basketball/virginia.gif,DONE
+TEAM,Virginia Military,Virginia Military,BASKETBALL,NCAAB,NCAA Basketball,ncaab,NO,NONE,virginia-military.gif,college/basketball/virginia-military.gif,DONE
+TEAM,Virginia Tech,Virginia Tech,BASKETBALL,NCAAB,NCAA Basketball,ncaab,NO,NONE,virginia-tech.gif,college/basketball/virginia-tech.gif,DONE
+TEAM,W. Kentucky,W. Kentucky,BASKETBALL,NCAAB,NCAA Basketball,ncaab,NO,NONE,w-kentucky.gif,college/basketball/w-kentucky.gif,DONE
+TEAM,Wagner,Wagner,BASKETBALL,NCAAB,NCAA Basketball,ncaab,NO,NONE,wagner.gif,college/basketball/wagner.gif,DONE
+TEAM,Wake Forest,Wake Forest,BASKETBALL,NCAAB,NCAA Basketball,ncaab,NO,NONE,wake-forest.gif,college/basketball/wake-forest.gif,DONE
+TEAM,Washington,Washington,BASKETBALL,NCAAB,NCAA Basketball,ncaab,NO,NONE,washington.gif,college/basketball/washington.gif,DONE
+TEAM,Washington St.,Washington St.,BASKETBALL,NCAAB,NCAA Basketball,ncaab,NO,NONE,washington-st.gif,college/basketball/washington-st.gif,DONE
+TEAM,Weber,Weber,BASKETBALL,NCAAB,NCAA Basketball,ncaab,NO,NONE,weber.gif,college/basketball/weber.gif,DONE
+TEAM,West Virginia,West Virginia,BASKETBALL,NCAAB,NCAA Basketball,ncaab,NO,NONE,west-virginia.gif,college/basketball/west-virginia.gif,DONE
+TEAM,Western Carolina,Western Carolina,BASKETBALL,NCAAB,NCAA Basketball,ncaab,NO,NONE,western-carolina.gif,college/basketball/western-carolina.gif,DONE
+TEAM,Western Illinois,Western Illinois,BASKETBALL,NCAAB,NCAA Basketball,ncaab,NO,NONE,western-illinois.gif,college/basketball/western-illinois.gif,DONE
+TEAM,Western Michigan,Western Michigan,BASKETBALL,NCAAB,NCAA Basketball,ncaab,NO,NONE,western-michigan.gif,college/basketball/western-michigan.gif,DONE
+TEAM,Wichita State,Wichita State,BASKETBALL,NCAAB,NCAA Basketball,ncaab,NO,NONE,wichita-state.gif,college/basketball/wichita-state.gif,DONE
+TEAM,William & Mary,William & Mary,BASKETBALL,NCAAB,NCAA Basketball,ncaab,NO,NONE,william-mary.gif,college/basketball/william-mary.gif,DONE
+TEAM,Winthrop,Winthrop,BASKETBALL,NCAAB,NCAA Basketball,ncaab,NO,NONE,winthrop.gif,college/basketball/winthrop.gif,DONE
+TEAM,Wisconsin,Wisconsin,BASKETBALL,NCAAB,NCAA Basketball,ncaab,NO,NONE,wisconsin.gif,college/basketball/wisconsin.gif,DONE
+TEAM,Wofford,Wofford,BASKETBALL,NCAAB,NCAA Basketball,ncaab,NO,NONE,wofford.gif,college/basketball/wofford.gif,DONE
+TEAM,Wyoming,Wyoming,BASKETBALL,NCAAB,NCAA Basketball,ncaab,NO,NONE,wyoming.gif,college/basketball/wyoming.gif,DONE
+TEAM,Xavier,Xavier,BASKETBALL,NCAAB,NCAA Basketball,ncaab,NO,NONE,xavier.gif,college/basketball/xavier.gif,DONE
+TEAM,Yale,Yale,BASKETBALL,NCAAB,NCAA Basketball,ncaab,NO,NONE,yale.gif,college/basketball/yale.gif,DONE
+TEAM,Broncos,Broncos,FOOTBALL,NFL,NFL,nfl,NO,NONE,broncos.gif,football/nfl/broncos.gif,DONE
+TEAM,Patriots,Patriots,FOOTBALL,NFL,NFL,nfl,NO,NONE,patriots.gif,football/nfl/patriots.gif,DONE
+TEAM,Rams,Rams,FOOTBALL,NFL,NFL,nfl,NO,NONE,rams.gif,football/nfl/rams.gif,DONE
+TEAM,Seahawks,Seahawks,FOOTBALL,NFL,NFL,nfl,NO,NONE,seahawks.gif,football/nfl/seahawks.gif,DONE
+TEAM,Avalanche,Avalanche,HOCKEY,NHL,NHL,nhl,NO,NONE,avalanche.gif,hockey/nhl/avalanche.gif,DONE
+TEAM,Blackhawks,Blackhawks,HOCKEY,NHL,NHL,nhl,NO,NONE,blackhawks.gif,hockey/nhl/blackhawks.gif,DONE
+TEAM,Blue Jackets,Blue Jackets,HOCKEY,NHL,NHL,nhl,NO,NONE,blue-jackets.gif,hockey/nhl/blue-jackets.gif,DONE
+TEAM,Blues,Blues,HOCKEY,NHL,NHL,nhl,YES,hockey/nhl/blues.png,blues.gif,hockey/nhl/blues.gif,✅ Logo exists
+TEAM,Bruins,Bruins,HOCKEY,NHL,NHL,nhl,NO,NONE,bruins.gif,hockey/nhl/bruins.gif,DONE
+TEAM,Canadiens,Canadiens,HOCKEY,NHL,NHL,nhl,NO,NONE,canadiens.gif,hockey/nhl/canadiens.gif,DONE
+TEAM,Canucks,Canucks,HOCKEY,NHL,NHL,nhl,NO,NONE,canucks.gif,hockey/nhl/canucks.gif,DONE
+TEAM,Capitals,Capitals,HOCKEY,NHL,NHL,nhl,NO,NONE,capitals.gif,hockey/nhl/capitals.gif,DONE
+TEAM,Devils,Devils,HOCKEY,NHL,NHL,nhl,NO,NONE,devils.gif,hockey/nhl/devils.gif,DONE
+TEAM,Ducks,Ducks,HOCKEY,NHL,NHL,nhl,NO,NONE,ducks.gif,hockey/nhl/ducks.gif,DONE
+TEAM,Flames,Flames,HOCKEY,NHL,NHL,nhl,NO,NONE,flames.gif,hockey/nhl/flames.gif,DONE
+TEAM,Flyers,Flyers,HOCKEY,NHL,NHL,nhl,NO,NONE,flyers.gif,hockey/nhl/flyers.gif,DONE
+TEAM,Golden Knights,Golden Knights,HOCKEY,NHL,NHL,nhl,NO,NONE,golden-knights.gif,hockey/nhl/golden-knights.gif,DONE
+TEAM,Hurricanes,Hurricanes,HOCKEY,NHL,NHL,nhl,NO,NONE,hurricanes.gif,hockey/nhl/hurricanes.gif,DONE
+TEAM,Islanders,Islanders,HOCKEY,NHL,NHL,nhl,NO,NONE,islanders.gif,hockey/nhl/islanders.gif,DONE
+TEAM,Jets,Jets,HOCKEY,NHL,NHL,nhl,NO,NONE,jets.gif,hockey/nhl/jets.gif,DONE
+TEAM,Kraken,Kraken,HOCKEY,NHL,NHL,nhl,NO,NONE,kraken.gif,hockey/nhl/kraken.gif,DONE
+TEAM,Lightning,Lightning,HOCKEY,NHL,NHL,nhl,NO,NONE,lightning.gif,hockey/nhl/lightning.gif,DONE
+TEAM,Mammoth,Mammoth,HOCKEY,NHL,NHL,nhl,NO,NONE,mammoth.gif,hockey/nhl/mammoth.gif,DONE
+TEAM,Maple Leafs,Maple Leafs,HOCKEY,NHL,NHL,nhl,NO,NONE,maple-leafs.gif,hockey/nhl/maple-leafs.gif,DONE
+TEAM,Oilers,Oilers,HOCKEY,NHL,NHL,nhl,NO,NONE,oilers.gif,hockey/nhl/oilers.gif,DONE
+TEAM,Panthers,Panthers,HOCKEY,NHL,NHL,nhl,NO,NONE,panthers.gif,hockey/nhl/panthers.gif,DONE
+TEAM,Penguins,Penguins,HOCKEY,NHL,NHL,nhl,NO,NONE,penguins.gif,hockey/nhl/penguins.gif,DONE
+TEAM,Predators,Predators,HOCKEY,NHL,NHL,nhl,NO,NONE,predators.gif,hockey/nhl/predators.gif,DONE
+TEAM,Rangers,Rangers,HOCKEY,NHL,NHL,nhl,NO,NONE,rangers.gif,hockey/nhl/rangers.gif,DONE
+TEAM,Red Wings,Red Wings,HOCKEY,NHL,NHL,nhl,NO,NONE,red-wings.gif,hockey/nhl/red-wings.gif,DONE
+TEAM,Sabres,Sabres,HOCKEY,NHL,NHL,nhl,NO,NONE,sabres.gif,hockey/nhl/sabres.gif,DONE
+TEAM,Senators,Senators,HOCKEY,NHL,NHL,nhl,NO,NONE,senators.gif,hockey/nhl/senators.gif,DONE
+TEAM,Sharks,Sharks,HOCKEY,NHL,NHL,nhl,NO,NONE,sharks.gif,hockey/nhl/sharks.gif,DONE
+TEAM,Stars,Stars,HOCKEY,NHL,NHL,nhl,NO,NONE,stars.gif,hockey/nhl/stars.gif,DONE
+TEAM,Wild,Wild,HOCKEY,NHL,NHL,nhl,NO,NONE,wild.gif,hockey/nhl/wild.gif,DONE
+TEAM,A. Allen,A. Allen,UFC,UFC,UFC,ufc,NO,NONE,a-allen.gif,ufc/ufc/a-allen.gif,Low Confidence: 0.75
+TEAM,A. Gautier,A. Gautier,UFC,UFC,UFC,ufc,NO,NONE,a-gautier.gif,ufc/ufc/a-gautier.gif,DONE
+TEAM,A. Hernandez,A. Hernandez,UFC,UFC,UFC,ufc,NO,NONE,a-hernandez.gif,ufc/ufc/a-hernandez.gif,❌ MISSING
+TEAM,A. Perez,A. Perez,UFC,UFC,UFC,ufc,NO,NONE,a-perez.gif,ufc/ufc/a-perez.gif,❌ MISSING
+TEAM,A. Pulyaev,A. Pulyaev,UFC,UFC,UFC,ufc,NO,NONE,a-pulyaev.gif,ufc/ufc/a-pulyaev.gif,❌ MISSING
+TEAM,A. Volkanovski,A. Volkanovski,UFC,UFC,UFC,ufc,NO,NONE,a-volkanovski.gif,ufc/ufc/a-volkanovski.gif,❌ MISSING
+TEAM,B. Elekana,B. Elekana,UFC,UFC,UFC,ufc,NO,NONE,b-elekana.gif,ufc/ufc/b-elekana.gif,❌ MISSING
+TEAM,C. Borralho,C. Borralho,UFC,UFC,UFC,ufc,NO,NONE,c-borralho.gif,ufc/ufc/c-borralho.gif,❌ MISSING
+TEAM,C. Johnson,C. Johnson,UFC,UFC,UFC,ufc,NO,NONE,c-johnson.gif,ufc/ufc/c-johnson.gif,Low Confidence: 0.8
+TEAM,C. Smotherman,C. Smotherman,UFC,UFC,UFC,ufc,NO,NONE,c-smotherman.gif,ufc/ufc/c-smotherman.gif,❌ MISSING
+TEAM,D. Figueiredo,D. Figueiredo,UFC,UFC,UFC,ufc,NO,NONE,d-figueiredo.gif,ufc/ufc/d-figueiredo.gif,❌ MISSING
+TEAM,D. Freeman,D. Freeman,UFC,UFC,UFC,ufc,NO,NONE,d-freeman.gif,ufc/ufc/d-freeman.gif,❌ MISSING
+TEAM,D. Lewis,D. Lewis,UFC,UFC,UFC,ufc,NO,NONE,d-lewis.gif,ufc/ufc/d-lewis.gif,❌ MISSING
+TEAM,D. Lopes,D. Lopes,UFC,UFC,UFC,ufc,NO,NONE,d-lopes.gif,ufc/ufc/d-lopes.gif,❌ MISSING
+TEAM,J. Gaethje,J. Gaethje,UFC,UFC,UFC,ufc,NO,NONE,j-gaethje.gif,ufc/ufc/j-gaethje.gif,❌ MISSING
+TEAM,J. Hokit,J. Hokit,UFC,UFC,UFC,ufc,NO,NONE,j-hokit.gif,ufc/ufc/j-hokit.gif,❌ MISSING
+TEAM,J. Malkoun,J. Malkoun,UFC,UFC,UFC,ufc,NO,NONE,j-malkoun.gif,ufc/ufc/j-malkoun.gif,❌ MISSING
+TEAM,J. Micallef,J. Micallef,UFC,UFC,UFC,ufc,NO,NONE,j-micallef.gif,ufc/ufc/j-micallef.gif,❌ MISSING
+TEAM,J. Mullarkey,J. Mullarkey,UFC,UFC,UFC,ufc,NO,NONE,j-mullarkey.gif,ufc/ufc/j-mullarkey.gif,Low Confidence: 0.7
+TEAM,J. Silva,J. Silva,UFC,UFC,UFC,ufc,NO,NONE,j-silva.gif,ufc/ufc/j-silva.gif,Low Confidence: 0.75
+TEAM,J. Tafa,J. Tafa,UFC,UFC,UFC,ufc,NO,NONE,j-tafa.gif,ufc/ufc/j-tafa.gif,❌ MISSING
+TEAM,M. Bukauskas,M. Bukauskas,UFC,UFC,UFC,ufc,NO,NONE,m-bukauskas.gif,ufc/ufc/m-bukauskas.gif,Low Confidence: 0.75
+TEAM,M. Johnson,M. Johnson,UFC,UFC,UFC,ufc,NO,NONE,m-johnson.gif,ufc/ufc/m-johnson.gif,Low Confidence: 0.8
+TEAM,M. Ruffy,M. Ruffy,UFC,UFC,UFC,ufc,NO,NONE,m-ruffy.gif,ufc/ufc/m-ruffy.gif,❌ MISSING
+TEAM,N. Krylov,N. Krylov,UFC,UFC,UFC,ufc,NO,NONE,n-krylov.gif,ufc/ufc/n-krylov.gif,❌ MISSING
+TEAM,N. Silva,N. Silva,UFC,UFC,UFC,ufc,NO,NONE,n-silva.gif,ufc/ufc/n-silva.gif,❌ MISSING
+TEAM,O. Elliott,O. Elliott,UFC,UFC,UFC,ufc,NO,NONE,o-elliott.gif,ufc/ufc/o-elliott.gif,❌ MISSING
+TEAM,P. Pimblett,P. Pimblett,UFC,UFC,UFC,ufc,NO,NONE,p-pimblett.gif,ufc/ufc/p-pimblett.gif,❌ MISSING
+TEAM,Q. Salkilld,Q. Salkilld,UFC,UFC,UFC,ufc,NO,NONE,q-salkilld.gif,ufc/ufc/q-salkilld.gif,❌ MISSING
+TEAM,R. de Ridder,R. de Ridder,UFC,UFC,UFC,ufc,NO,NONE,r-de-ridder.gif,ufc/ufc/r-de-ridder.gif,❌ MISSING
+TEAM,R. Fiziev,R. Fiziev,UFC,UFC,UFC,ufc,NO,NONE,r-fiziev.gif,ufc/ufc/r-fiziev.gif,❌ MISSING
+TEAM,R. Namajunas,R. Namajunas,UFC,UFC,UFC,ufc,NO,NONE,r-namajunas.gif,ufc/ufc/r-namajunas.gif,❌ MISSING
+TEAM,R. Turcios,R. Turcios,UFC,UFC,UFC,ufc,NO,NONE,r-turcios.gif,ufc/ufc/r-turcios.gif,❌ MISSING
+TEAM,S. O'Malley,S. O'Malley,UFC,UFC,UFC,ufc,NO,NONE,s-omalley.gif,ufc/ufc/s-omalley.gif,❌ MISSING
+TEAM,S. Yadong,S. Yadong,UFC,UFC,UFC,ufc,NO,NONE,s-yadong.gif,ufc/ufc/s-yadong.gif,❌ MISSING
+TEAM,T. Finney,T. Finney,UFC,UFC,UFC,ufc,NO,NONE,t-finney.gif,ufc/ufc/t-finney.gif,❌ MISSING
+TEAM,T. Teixeira,T. Teixeira,UFC,UFC,UFC,ufc,NO,NONE,t-teixeira.gif,ufc/ufc/t-teixeira.gif,❌ MISSING
+TEAM,T. Tuivasa,T. Tuivasa,UFC,UFC,UFC,ufc,NO,NONE,t-tuivasa.gif,ufc/ufc/t-tuivasa.gif,❌ MISSING
+TEAM,U. Nurmagomedov,U. Nurmagomedov,UFC,UFC,UFC,ufc,NO,NONE,u-nurmagomedov.gif,ufc/ufc/u-nurmagomedov.gif,❌ MISSING
+TEAM,W. Cortes-Acosta,W. Cortes-Acosta,UFC,UFC,UFC,ufc,NO,NONE,w-cortes-acosta.gif,ufc/ufc/w-cortes-acosta.gif,❌ MISSING
+LEAGUE,Bundesliga,BUNDESLIGA,SOCCER,BUNDESLIGA,Bundesliga,bundesliga,YES,soccer/germany-bundesliga/bundesliga.gif,bundesliga.gif,soccer/germany-bundesliga/bundesliga.gif,✅ Logo exists
+LEAGUE,NBA,NBA,BASKETBALL,NBA,NBA,nba,YES,basketball/nba.gif,nba.gif,basketball/nba/nba.gif,✅ Logo exists
+LEAGUE,NCAA Basketball,NCAAB,BASKETBALL,NCAAB,NCAA Basketball,ncaab,YES,college/college-football.png,ncaa-basketball.gif,college/basketball/ncaa-basketball.gif,✅ Logo exists
+LEAGUE,NFL,NFL,FOOTBALL,NFL,NFL,nfl,YES,football/nfl.gif,nfl.gif,football/nfl/nfl.gif,✅ Logo exists
+LEAGUE,NHL,NHL,HOCKEY,NHL,NHL,nhl,YES,hockey/nhl.gif,nhl.gif,hockey/nhl/nhl.gif,✅ Logo exists
+LEAGUE,Premier League,EPL,SOCCER,EPL,Premier League,epl,YES,soccer/union-of-european-football-association.gif,premier-league.gif,soccer/epl/premier-league.gif,✅ Logo exists
+LEAGUE,UFC,UFC,UFC,UFC,UFC,ufc,YES,mixed-martial-arts/ufc.png,ufc.gif,ufc/ufc/ufc.gif,✅ Logo exists
